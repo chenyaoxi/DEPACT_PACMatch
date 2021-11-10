@@ -1,0 +1,8 @@
+#fragmentname smarts specialatoms_and_types
+OH_01 [OX2H][#6X4][#6] 0 o_hydroxyl
+PO4_01 [OX2][#15X4]([OX2])([OX2])=[O] 0 o_phosphate
+ncnc3_01 [nX2]1[cX3][nX2][cX3][cX3][cX3]1 0 h1_o_adenine
+ncnc2_01 [nX3]1[cX3][nX2][cX3][cX3]1 0 h2_o_adenine
+NH2_01 [NX3H2][#6][#6] 0 o_amino
+COC_01 [CX4][OX2][CX4] 0 o_coc
+CCC_01 [CX4][CX4][CX4] 0 o_ccc

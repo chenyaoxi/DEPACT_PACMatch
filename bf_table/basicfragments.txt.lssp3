@@ -1,0 +1,4 @@
+C6_01 [cX3]1[cX3][cX3][cX3][cX3][cX3]1 0 o_benzene
+C4_01 [#6][CX4]([#6])([#6])[#6] 0 o_C4
+CO2N_01 [CX3](=[OX1])[OX2][NX3] 0 o_co2n
+C3ON_01 [CX4][CX4][CX3](=[OX1])[NX3] 0 o_ccon 

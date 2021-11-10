@@ -1,0 +1,9 @@
+#ligand_atm protein_res protein_atm #polar hydro metal
+X X O 1 0 0 
+X X N 1 0 0
+X X C 0 1 0
+X X S 1 0 0
+X X ZN 0 0 2
+X X MG 0 0 2
+X X MN 0 0 2
+X X CA 0 0 2
