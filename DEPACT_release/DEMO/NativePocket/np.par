@@ -1,0 +1,4 @@
+Ligand = ATP.sdf
+Protein = 1f2u.pdb
+Wdmldpl = 1.0
+IsStrongPocket = True

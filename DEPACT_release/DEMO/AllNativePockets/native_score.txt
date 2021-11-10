@@ -1,0 +1,12 @@
+fullname   pocket_id   score
+4j5y_ATP_1_F_101__N___ Native_0.pdb 1.05669
+4eoq_ATP_1_A_301__E___ Native_1.pdb -20.1906
+1r0z_ATP_1_B_675__J___ Native_2.pdb -20.8972
+4aar_ATP_1_E_1527__CA___ Native_3.pdb 1e+09
+2v51_ATP_1_B_1372__E___ Native_4.pdb -19.1863
+6blk_ATP_1_A_501__I___ Native_5.pdb -5.97465
+3dvl_ATP_1_D_903__R___ Native_6.pdb -30.6129
+5svp_ATP_1_B_401__J___ Native_7.pdb 1e+09
+3j94_ATP_1_F_801__Q___ Native_8.pdb -10.739
+6bco_ATP_1_D_2000__H___ Native_9.pdb -11.4302
+min_score pocket is Native_6.pdb with score -30.6129

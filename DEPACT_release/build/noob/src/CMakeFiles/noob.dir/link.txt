@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libnoob.a  CMakeFiles/noob.dir/scorecontact.o CMakeFiles/noob.dir/residuecontactscores.o CMakeFiles/noob.dir/atomtypes.o CMakeFiles/noob.dir/basicfragment.o CMakeFiles/noob.dir/tmpltssas.o CMakeFiles/noob.dir/atomcontacts.o CMakeFiles/noob.dir/subsite.o CMakeFiles/noob.dir/combinesubsites.o CMakeFiles/noob.dir/contactcode.o
+/usr/bin/ranlib ../../lib/libnoob.a

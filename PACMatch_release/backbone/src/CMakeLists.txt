@@ -1,0 +1,2 @@
+add_library(backbone segments.cpp backbonesasa.cpp backbonemoves.cpp closealoop.cpp hbonded.cpp backbonetorsionscore.cpp rminsef.cpp mainchain closingloop energyfunctions.cpp coresegments.cpp backbonealignment.cpp backbonebuilder.cpp
+ backboneenergy.cpp chainpack.cpp chainpackminimizer.cpp backboneminimizer.cpp pepconformer.cpp scorepep.cpp backbonesite.cpp backbonedata.cpp backboneloop.cpp loopinteractions.cpp torsionvectortree.cpp torsionvectorscorer.cpp chainassembler.cpp)

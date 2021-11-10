@@ -1,0 +1,37 @@
+# Please ensure that any changes remain compliant with 2.4.8.
+if(NOT EMBED_OPENBABEL)
+  cmake_minimum_required(VERSION 2.4.8)
+endif()
+SET( LIBRARY_OUTPUT_PATH  "${PROJECT_BINARY_DIR}/lib" )
+SET( EXECUTABLE_OUTPUT_PATH  "${PROJECT_BINARY_DIR}/test" )
+#set(OPENBABEL_BINARY_ROOT "/home/cyx/workspace/ob/")
+#set(PROJECT_SOURCE_DIR "/home/cyx/workspace/designpocket_eros")
+#SET(CMAKE_CXX_FLAGS  "${CMAKE_CXX_FLAGS} -g -std=c++11 -D_GLIBCXX_DEBUG -fno-inline -Wl,--enable-new-dtags -Wl,--fatal-warnings -Wl,--no-undefined -lc -ldl -lz")
+#SET(CMAKE_CXX_FLAGS  "${CMAKE_CXX_FLAGS} -g -std=c++11 -L/usr/local/lib/ -lmlpack -lblas -lboost_serialization -lboost_filesystem -lboost_system")
+SET(CMAKE_CXX_FLAGS  "${CMAKE_CXX_FLAGS} -O4 -std=c++11 -Wl,--no-as-needed -L${PROJECT_BINARY_DIR}/lib/libcombine.a -lgslcblas -lgsl")
+# Quick: -O4
+link_directories(${PROJECT_BINARY_DIR}/lib  ${OPENBABEL_BINARY_ROOT}/lib)
+include_directories(${PROJECT_SOURCE_DIR}  ${PROJECT_SOURCE_DIR}/noob /home/cyx/workspace/boost/include)
+set(Boost_USE_STATIC_LIBS ON)
+set(BOOST_COMPONENTS filesystem system serialization)
+find_package(Boost REQUIRED COMPONENTS ${BOOST_COMPONENTS})
+add_library(combine STATIC IMPORTED GLOBAL)
+set(C_LIB ${CMAKE_BINARY_DIR}/lib/libcombine.a)
+set_target_properties(combine
+	PROPERTIES
+	IMPORTED_LOCATION ${C_LIB}
+	)
+add_dependencies(combine combinelib)
+add_custom_target(combinelib
+            rm -f libcombine.a
+        COMMAND ar rcT libcombine.a  libnspdataio.a  libnspdstl.a libnspgeometry.a  libnspproteinrep.a  libnspdesignseq.a libnoob.a
+        COMMAND ranlib libcombine.a
+        DEPENDS backbone nspdataio nspdstl nspgeometry nspproteinrep nspdesignseq noob
+        WORKING_DIRECTORY ${LIBRARY_OUTPUT_PATH})
+
+add_subdirectory(noob)
+add_subdirectory (dataio/src)
+add_subdirectory (geometry/src)
+add_subdirectory (proteinrep/src)
+add_subdirectory (designseq/src)
+add_subdirectory (dstl/src)

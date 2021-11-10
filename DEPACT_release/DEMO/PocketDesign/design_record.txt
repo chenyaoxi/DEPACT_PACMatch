@@ -1,0 +1,8 @@
+Reading parameters ...
+Decomposing target ligand ...
+Time: 0.152887 hours Fetch top_similar tmplts 137
+Time: 0.152941 hours Finsih tmplt_alignments.
+Time: 0.157792 hours pre_ssites.size() 705
+Time: 0.157792 hours Finish building ssites: 128
+Time: 0.157792 hours Final ssites compatible: 128
+Time: 0.158073 hours Finish testoverall.cpp

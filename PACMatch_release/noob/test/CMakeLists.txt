@@ -1,0 +1,10 @@
+#set(PROGRAMS scaffoldscreen DEPACTPocketMatch DEPACTClashSite)
+#foreach(program ${PROGRAMS})
+# add_executable(${program} ${program}.cpp)
+# target_link_libraries(${program} combine)
+#endforeach(program)
+
+add_executable(PACMatchPocketMatch DEPACTPocketMatch.cpp)
+target_link_libraries(PACMatchPocketMatch combine)
+add_executable(PACMatchClashSite DEPACTClashSite.cpp)
+target_link_libraries(PACMatchClashSite combine)

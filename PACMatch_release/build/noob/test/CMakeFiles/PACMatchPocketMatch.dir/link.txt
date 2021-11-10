@@ -1,0 +1,1 @@
+/usr/bin/c++   -O4 -std=c++11 -Wl,--no-as-needed -L/home/cyx/workspace/PACMatch_release/build/lib/libcombine.a -lgslcblas -lgsl  -rdynamic CMakeFiles/PACMatchPocketMatch.dir/DEPACTPocketMatch.o  -o ../../test/PACMatchPocketMatch   -L/home/cyx/workspace/PACMatch_release/build/lib  -Wl,-rpath,/home/cyx/workspace/PACMatch_release/build/lib ../../lib/libcombine.a 

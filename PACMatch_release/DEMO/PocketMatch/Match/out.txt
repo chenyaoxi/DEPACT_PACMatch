@@ -1,0 +1,30 @@
+Pocket Residue Info:
+ Pocket Residue 0: 1 1 LYS
+ Pocket Residue 1: 1 2 TYR
+ Pocket Residue 2: 2 1 PHE
+ Pocket Residue 3: 2 3 SER
+ Pocket Residue 4: 2 6 GLU
+ Pocket Residue 5: 3 1 ARG
+ Pocket Residue 6: 4 1 ASN
+ Pocket Residue 7: 4 3 SER
+ Pocket Residue 8: 4 5 LYS
+ Pocket Residue 9: 4 6 SER
+ Pocket Residue 10: 4 7 SER
+ Pocket Residue 11: 5 3 VAL
+ Pocket Residue 12: 6 1 GLN
+Time: 1.28111e-06 hours Finish reading pockets
+Using GraphMatch.
+../Scaffold/1f2u.pdb has 6909 possible rotamers.
+Finding cliques with size 2
+ There are 182840 cliques.
+Finding cliques with size 3
+ There are 490232 cliques.
+Finding cliques with size 4
+ There are 175483 cliques.
+Finding cliques with size 5
+ There are 94926 cliques.
+Initially there are 94926 key residue matches.
+There are 12 non-redundant matches for key residues.
+Time: 0.00596903 hours Finish matching with 10468 matches.
+Time: 0.0331314 hours Finish checking and writing pockets with 100 non-redundant matches.
+Time: 0.0331323 hours Finish the whole keyatommatch process.

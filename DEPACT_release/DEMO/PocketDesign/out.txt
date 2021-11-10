@@ -1,0 +1,1606 @@
+1gac_RER_38_C_9__E___ is passed for having unspecified atom(s).
+1gac_RER_11_C_10__F___ is passed for having unspecified atom(s).
+1gac_RER_6_D_10__H___ is passed for having unspecified atom(s).
+1gac_RER_28_D_9__G___ is passed for having unspecified atom(s).
+1gac_RER_24_C_9__E___ is passed for having unspecified atom(s).
+1gac_RER_29_C_10__F___ is passed for having unspecified atom(s).
+1gac_RER_41_D_10__H___ is passed for having unspecified atom(s).
+1gac_RER_20_C_9__E___ is passed for having unspecified atom(s).
+1gac_RER_31_C_9__E___ is passed for having unspecified atom(s).
+will read 1pig 1
+gunzip /home/cyx/pdbfiles/pdb1pig.ent.gz
+/home/cyx/pdbfiles/pdb1pig.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1pig.ent
+dealing with 1pig
+wrong resnum 704 in A
+will read 1fpj 1
+gunzip /home/cyx/pdbfiles/pdb1fpj.ent.gz
+/home/cyx/pdbfiles/pdb1fpj.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1fpj.ent
+dealing with 1fpj
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+new mediate type: TL
+will read 5glp 1
+downloading pdb5glp.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb5glp.ent.gz
+/home/cyx/pdbfiles/pdb5glp.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5glp.ent
+dealing with 5glp
+will read 4c1i 1
+gunzip /home/cyx/pdbfiles/pdb4c1i.ent.gz
+/home/cyx/pdbfiles/pdb4c1i.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4c1i.ent
+dealing with 4c1i
+will read 4c1i 1
+gunzip /home/cyx/pdbfiles/pdb4c1i.ent.gz
+/home/cyx/pdbfiles/pdb4c1i.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4c1i.ent
+dealing with 4c1i
+will read 1hha 1
+gunzip /home/cyx/pdbfiles/pdb1hha.ent.gz
+/home/cyx/pdbfiles/pdb1hha.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1hha.ent
+dealing with 1hha
+will read 5xn1 1
+gunzip /home/cyx/pdbfiles/pdb5xn1.ent.gz
+/home/cyx/pdbfiles/pdb5xn1.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5xn1.ent
+dealing with 5xn1
+will read 1nem 3
+gunzip /home/cyx/pdbfiles/pdb1nem.ent.gz
+/home/cyx/pdbfiles/pdb1nem.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1nem.ent
+dealing with 1nem
+wrong resnum 30 in A
+will read 4foe 1
+gunzip /home/cyx/pdbfiles/pdb4foe.ent.gz
+/home/cyx/pdbfiles/pdb4foe.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4foe.ent
+dealing with 4foe
+will read 2rl8 1
+gunzip /home/cyx/pdbfiles/pdb2rl8.ent.gz
+/home/cyx/pdbfiles/pdb2rl8.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2rl8.ent
+dealing with 2rl8
+will read 1sz0 1
+gunzip /home/cyx/pdbfiles/pdb1sz0.ent.gz
+/home/cyx/pdbfiles/pdb1sz0.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1sz0.ent
+dealing with 1sz0
+will read 4e84 1
+gunzip /home/cyx/pdbfiles/pdb4e84.ent.gz
+/home/cyx/pdbfiles/pdb4e84.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4e84.ent
+dealing with 4e84
+will read 2l65 2
+gunzip /home/cyx/pdbfiles/pdb2l65.ent.gz
+/home/cyx/pdbfiles/pdb2l65.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2l65.ent
+dealing with 2l65
+will read 5aj3 1
+gunzip /home/cyx/pdbfiles/pdb5aj3.ent.gz
+/home/cyx/pdbfiles/pdb5aj3.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5aj3.ent
+dealing with 5aj3
+will read 4m3q 1
+gunzip /home/cyx/pdbfiles/pdb4m3q.ent.gz
+/home/cyx/pdbfiles/pdb4m3q.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4m3q.ent
+dealing with 4m3q
+will read 1exl 16
+gunzip /home/cyx/pdbfiles/pdb1exl.ent.gz
+/home/cyx/pdbfiles/pdb1exl.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1exl.ent
+dealing with 1exl
+will read 1fyi 2
+gunzip /home/cyx/pdbfiles/pdb1fyi.ent.gz
+/home/cyx/pdbfiles/pdb1fyi.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1fyi.ent
+dealing with 1fyi
+will read 1fyi 5
+gunzip /home/cyx/pdbfiles/pdb1fyi.ent.gz
+/home/cyx/pdbfiles/pdb1fyi.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1fyi.ent
+dealing with 1fyi
+will read 1exl 3
+gunzip /home/cyx/pdbfiles/pdb1exl.ent.gz
+/home/cyx/pdbfiles/pdb1exl.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1exl.ent
+dealing with 1exl
+will read 1fyi 7
+gunzip /home/cyx/pdbfiles/pdb1fyi.ent.gz
+/home/cyx/pdbfiles/pdb1fyi.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1fyi.ent
+dealing with 1fyi
+will read 1exl 11
+gunzip /home/cyx/pdbfiles/pdb1exl.ent.gz
+/home/cyx/pdbfiles/pdb1exl.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1exl.ent
+dealing with 1exl
+will read 1exl 14
+gunzip /home/cyx/pdbfiles/pdb1exl.ent.gz
+/home/cyx/pdbfiles/pdb1exl.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1exl.ent
+dealing with 1exl
+will read 1exl 25
+gunzip /home/cyx/pdbfiles/pdb1exl.ent.gz
+/home/cyx/pdbfiles/pdb1exl.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1exl.ent
+dealing with 1exl
+will read 1exl 13
+gunzip /home/cyx/pdbfiles/pdb1exl.ent.gz
+/home/cyx/pdbfiles/pdb1exl.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1exl.ent
+dealing with 1exl
+will read 1exl 17
+gunzip /home/cyx/pdbfiles/pdb1exl.ent.gz
+/home/cyx/pdbfiles/pdb1exl.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1exl.ent
+dealing with 1exl
+will read 1exl 9
+gunzip /home/cyx/pdbfiles/pdb1exl.ent.gz
+/home/cyx/pdbfiles/pdb1exl.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1exl.ent
+dealing with 1exl
+will read 1exl 1
+gunzip /home/cyx/pdbfiles/pdb1exl.ent.gz
+/home/cyx/pdbfiles/pdb1exl.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1exl.ent
+dealing with 1exl
+will read 4gpn 1
+gunzip /home/cyx/pdbfiles/pdb4gpn.ent.gz
+/home/cyx/pdbfiles/pdb4gpn.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4gpn.ent
+dealing with 4gpn
+wrong resnum 501 in A
+will read 3g96 1
+gunzip /home/cyx/pdbfiles/pdb3g96.ent.gz
+/home/cyx/pdbfiles/pdb3g96.ent.gz is read
+finish /home/cyx/pdbfiles/pdb3g96.ent
+dealing with 3g96
+will read 2i55 1
+gunzip /home/cyx/pdbfiles/pdb2i55.ent.gz
+/home/cyx/pdbfiles/pdb2i55.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2i55.ent
+dealing with 2i55
+will read 5l6i 1
+gunzip /home/cyx/pdbfiles/pdb5l6i.ent.gz
+/home/cyx/pdbfiles/pdb5l6i.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5l6i.ent
+dealing with 5l6i
+will read 5l6i 1
+gunzip /home/cyx/pdbfiles/pdb5l6i.ent.gz
+/home/cyx/pdbfiles/pdb5l6i.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5l6i.ent
+dealing with 5l6i
+will read 1nem 3
+gunzip /home/cyx/pdbfiles/pdb1nem.ent.gz
+/home/cyx/pdbfiles/pdb1nem.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1nem.ent
+dealing with 1nem
+will read 1qd3 5
+gunzip /home/cyx/pdbfiles/pdb1qd3.ent.gz
+/home/cyx/pdbfiles/pdb1qd3.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1qd3.ent
+dealing with 1qd3
+will read 4em5 1
+downloading pdb4em5.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb4em5.ent.gz
+/home/cyx/pdbfiles/pdb4em5.ent.gz is read
+Could not obtain pdbfile pdb4em5.ent
+file  not exist
+find an empty: 4em5
+will read 1e7y 1
+gunzip /home/cyx/pdbfiles/pdb1e7y.ent.gz
+/home/cyx/pdbfiles/pdb1e7y.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1e7y.ent
+dealing with 1e7y
+will read 5l6f 1
+downloading pdb5l6f.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb5l6f.ent.gz
+/home/cyx/pdbfiles/pdb5l6f.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5l6f.ent
+dealing with 5l6f
+wrong resnum 510 in A
+will read 2cdu 1
+gunzip /home/cyx/pdbfiles/pdb2cdu.ent.gz
+/home/cyx/pdbfiles/pdb2cdu.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2cdu.ent
+dealing with 2cdu
+will read 4b9l 1
+gunzip /home/cyx/pdbfiles/pdb4b9l.ent.gz
+/home/cyx/pdbfiles/pdb4b9l.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4b9l.ent
+dealing with 4b9l
+will read 1d2v 1
+gunzip /home/cyx/pdbfiles/pdb1d2v.ent.gz
+/home/cyx/pdbfiles/pdb1d2v.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1d2v.ent
+dealing with 1d2v
+wrong resnum 2645 in D
+will read 6ce9 1
+gunzip /home/cyx/pdbfiles/pdb6ce9.ent.gz
+/home/cyx/pdbfiles/pdb6ce9.ent.gz is read
+finish /home/cyx/pdbfiles/pdb6ce9.ent
+dealing with 6ce9
+wrong resnum 1013 in A
+will read 4i00 1
+downloading pdb4i00.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb4i00.ent.gz
+/home/cyx/pdbfiles/pdb4i00.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4i00.ent
+dealing with 4i00
+wrong resnum 503 in A
+will read 5m8o 1
+gunzip /home/cyx/pdbfiles/pdb5m8o.ent.gz
+/home/cyx/pdbfiles/pdb5m8o.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5m8o.ent
+dealing with 5m8o
+wrong resnum 503 in B
+will read 2wkk 1
+gunzip /home/cyx/pdbfiles/pdb2wkk.ent.gz
+/home/cyx/pdbfiles/pdb2wkk.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2wkk.ent
+dealing with 2wkk
+wrong resnum 1151 in A
+will read 5kxd 1
+gunzip /home/cyx/pdbfiles/pdb5kxd.ent.gz
+/home/cyx/pdbfiles/pdb5kxd.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5kxd.ent
+dealing with 5kxd
+wrong resnum 302 in C
+will read 6fx3 1
+downloading pdb6fx3.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb6fx3.ent.gz
+/home/cyx/pdbfiles/pdb6fx3.ent.gz is read
+finish /home/cyx/pdbfiles/pdb6fx3.ent
+dealing with 6fx3
+wrong resnum 101 in A
+will read 5fuu 1
+downloading pdb5fuu.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb5fuu.ent.gz
+/home/cyx/pdbfiles/pdb5fuu.ent.gz is read
+Could not obtain pdbfile pdb5fuu.ent
+file  not exist
+find an empty: 5fuu
+will read 1b0f 1
+gunzip /home/cyx/pdbfiles/pdb1b0f.ent.gz
+/home/cyx/pdbfiles/pdb1b0f.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1b0f.ent
+dealing with 1b0f
+wrong resnum 412 in A
+will read 5uk5 1
+gunzip /home/cyx/pdbfiles/pdb5uk5.ent.gz
+/home/cyx/pdbfiles/pdb5uk5.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5uk5.ent
+dealing with 5uk5
+will read 3w37 1
+downloading pdb3w37.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb3w37.ent.gz
+/home/cyx/pdbfiles/pdb3w37.ent.gz is read
+finish /home/cyx/pdbfiles/pdb3w37.ent
+dealing with 3w37
+wrong resnum 1005 in A
+will read 1wv7 1
+downloading pdb1wv7.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb1wv7.ent.gz
+/home/cyx/pdbfiles/pdb1wv7.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1wv7.ent
+dealing with 1wv7
+will read 5aog 1
+gunzip /home/cyx/pdbfiles/pdb5aog.ent.gz
+/home/cyx/pdbfiles/pdb5aog.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5aog.ent
+dealing with 5aog
+wrong resnum 1352 in A
+will read 6en6 1
+gunzip /home/cyx/pdbfiles/pdb6en6.ent.gz
+/home/cyx/pdbfiles/pdb6en6.ent.gz is read
+finish /home/cyx/pdbfiles/pdb6en6.ent
+dealing with 6en6
+wrong resnum 706 in D
+will read 5mx0 1
+downloading pdb5mx0.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb5mx0.ent.gz
+/home/cyx/pdbfiles/pdb5mx0.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5mx0.ent
+dealing with 5mx0
+wrong resnum 504 in A
+will read 4xbm 1
+downloading pdb4xbm.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb4xbm.ent.gz
+/home/cyx/pdbfiles/pdb4xbm.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4xbm.ent
+dealing with 4xbm
+will read 5tzn 1
+gunzip /home/cyx/pdbfiles/pdb5tzn.ent.gz
+/home/cyx/pdbfiles/pdb5tzn.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5tzn.ent
+dealing with 5tzn
+wrong resnum 504 in G
+will read 4o3t 1
+downloading pdb4o3t.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb4o3t.ent.gz
+/home/cyx/pdbfiles/pdb4o3t.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4o3t.ent
+dealing with 4o3t
+wrong resnum 602 in B
+will read 4aha 1
+gunzip /home/cyx/pdbfiles/pdb4aha.ent.gz
+/home/cyx/pdbfiles/pdb4aha.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4aha.ent
+dealing with 4aha
+will read 5tip 1
+gunzip /home/cyx/pdbfiles/pdb5tip.ent.gz
+/home/cyx/pdbfiles/pdb5tip.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5tip.ent
+dealing with 5tip
+wrong resnum 527 in D
+will read 5wkg 1
+gunzip /home/cyx/pdbfiles/pdb5wkg.ent.gz
+/home/cyx/pdbfiles/pdb5wkg.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5wkg.ent
+dealing with 5wkg
+wrong resnum 406 in A
+will read 2gj7 1
+downloading pdb2gj7.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb2gj7.ent.gz
+/home/cyx/pdbfiles/pdb2gj7.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2gj7.ent
+dealing with 2gj7
+wrong resnum 8 in A
+will read 3ala 1
+gunzip /home/cyx/pdbfiles/pdb3ala.ent.gz
+/home/cyx/pdbfiles/pdb3ala.ent.gz is read
+finish /home/cyx/pdbfiles/pdb3ala.ent
+dealing with 3ala
+wrong resnum 1771 in A
+will read 4gez 1
+gunzip /home/cyx/pdbfiles/pdb4gez.ent.gz
+/home/cyx/pdbfiles/pdb4gez.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4gez.ent
+dealing with 4gez
+wrong resnum 504 in B
+will read 5h47 1
+gunzip /home/cyx/pdbfiles/pdb5h47.ent.gz
+/home/cyx/pdbfiles/pdb5h47.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5h47.ent
+dealing with 5h47
+will read 5h47 1
+gunzip /home/cyx/pdbfiles/pdb5h47.ent.gz
+/home/cyx/pdbfiles/pdb5h47.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5h47.ent
+dealing with 5h47
+will read 5h47 1
+gunzip /home/cyx/pdbfiles/pdb5h47.ent.gz
+/home/cyx/pdbfiles/pdb5h47.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5h47.ent
+dealing with 5h47
+will read 6gro 1
+gunzip /home/cyx/pdbfiles/pdb6gro.ent.gz
+/home/cyx/pdbfiles/pdb6gro.ent.gz is read
+finish /home/cyx/pdbfiles/pdb6gro.ent
+dealing with 6gro
+will read 1r15 1
+gunzip /home/cyx/pdbfiles/pdb1r15.ent.gz
+/home/cyx/pdbfiles/pdb1r15.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1r15.ent
+dealing with 1r15
+will read 1g9t 1
+gunzip /home/cyx/pdbfiles/pdb1g9t.ent.gz
+/home/cyx/pdbfiles/pdb1g9t.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1g9t.ent
+dealing with 1g9t
+will read 2h4l 1
+gunzip /home/cyx/pdbfiles/pdb2h4l.ent.gz
+/home/cyx/pdbfiles/pdb2h4l.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2h4l.ent
+dealing with 2h4l
+will read 2vbg 1
+gunzip /home/cyx/pdbfiles/pdb2vbg.ent.gz
+/home/cyx/pdbfiles/pdb2vbg.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2vbg.ent
+dealing with 2vbg
+will read 3duf 1
+gunzip /home/cyx/pdbfiles/pdb3duf.ent.gz
+/home/cyx/pdbfiles/pdb3duf.ent.gz is read
+finish /home/cyx/pdbfiles/pdb3duf.ent
+dealing with 3duf
+will read 2vbg 1
+gunzip /home/cyx/pdbfiles/pdb2vbg.ent.gz
+/home/cyx/pdbfiles/pdb2vbg.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2vbg.ent
+dealing with 2vbg
+will read 3bz4 1
+gunzip /home/cyx/pdbfiles/pdb3bz4.ent.gz
+/home/cyx/pdbfiles/pdb3bz4.ent.gz is read
+finish /home/cyx/pdbfiles/pdb3bz4.ent
+dealing with 3bz4
+wrong resnum 307 in B
+will read 4urr 1
+gunzip /home/cyx/pdbfiles/pdb4urr.ent.gz
+/home/cyx/pdbfiles/pdb4urr.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4urr.ent
+dealing with 4urr
+wrong resnum 1 in D
+will read 5m2k 1
+gunzip /home/cyx/pdbfiles/pdb5m2k.ent.gz
+/home/cyx/pdbfiles/pdb5m2k.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5m2k.ent
+dealing with 5m2k
+wrong resnum 102 in B
+will read 5lnw 1
+gunzip /home/cyx/pdbfiles/pdb5lnw.ent.gz
+/home/cyx/pdbfiles/pdb5lnw.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5lnw.ent
+dealing with 5lnw
+will read 2jja 1
+gunzip /home/cyx/pdbfiles/pdb2jja.ent.gz
+/home/cyx/pdbfiles/pdb2jja.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2jja.ent
+dealing with 2jja
+will read 2xc6 1
+gunzip /home/cyx/pdbfiles/pdb2xc6.ent.gz
+/home/cyx/pdbfiles/pdb2xc6.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2xc6.ent
+dealing with 2xc6
+will read 2jja 1
+gunzip /home/cyx/pdbfiles/pdb2jja.ent.gz
+/home/cyx/pdbfiles/pdb2jja.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2jja.ent
+dealing with 2jja
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+will read 2wna 1
+gunzip /home/cyx/pdbfiles/pdb2wna.ent.gz
+/home/cyx/pdbfiles/pdb2wna.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2wna.ent
+dealing with 2wna
+will read 1ht4 5
+gunzip /home/cyx/pdbfiles/pdb1ht4.ent.gz
+/home/cyx/pdbfiles/pdb1ht4.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1ht4.ent
+dealing with 1ht4
+will read 3old 1
+downloading pdb3old.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb3old.ent.gz
+/home/cyx/pdbfiles/pdb3old.ent.gz is read
+finish /home/cyx/pdbfiles/pdb3old.ent
+dealing with 3old
+wrong resnum 504 in A
+will read 5wsc 1
+gunzip /home/cyx/pdbfiles/pdb5wsc.ent.gz
+/home/cyx/pdbfiles/pdb5wsc.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5wsc.ent
+dealing with 5wsc
+will read 1qha 1
+gunzip /home/cyx/pdbfiles/pdb1qha.ent.gz
+/home/cyx/pdbfiles/pdb1qha.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1qha.ent
+dealing with 1qha
+will read 2zj3 1
+gunzip /home/cyx/pdbfiles/pdb2zj3.ent.gz
+/home/cyx/pdbfiles/pdb2zj3.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2zj3.ent
+dealing with 2zj3
+will read 3ooj 1
+gunzip /home/cyx/pdbfiles/pdb3ooj.ent.gz
+/home/cyx/pdbfiles/pdb3ooj.ent.gz is read
+finish /home/cyx/pdbfiles/pdb3ooj.ent
+dealing with 3ooj
+will read 2otl 1
+gunzip /home/cyx/pdbfiles/pdb2otl.ent.gz
+/home/cyx/pdbfiles/pdb2otl.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2otl.ent
+dealing with 2otl
+will read 2vf5 1
+gunzip /home/cyx/pdbfiles/pdb2vf5.ent.gz
+/home/cyx/pdbfiles/pdb2vf5.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2vf5.ent
+dealing with 2vf5
+will read 5ue2 1
+gunzip /home/cyx/pdbfiles/pdb5ue2.ent.gz
+/home/cyx/pdbfiles/pdb5ue2.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5ue2.ent
+dealing with 5ue2
+wrong resnum 305 in A
+will read 3irk 7
+gunzip /home/cyx/pdbfiles/pdb3irk.ent.gz
+/home/cyx/pdbfiles/pdb3irk.ent.gz is read
+finish /home/cyx/pdbfiles/pdb3irk.ent
+dealing with 3irk
+will read 1gmo 1
+gunzip /home/cyx/pdbfiles/pdb1gmo.ent.gz
+/home/cyx/pdbfiles/pdb1gmo.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1gmo.ent
+dealing with 1gmo
+wrong resnum 301 in F
+will read 4ebc 1
+gunzip /home/cyx/pdbfiles/pdb4ebc.ent.gz
+/home/cyx/pdbfiles/pdb4ebc.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4ebc.ent
+dealing with 4ebc
+will read 4ebd 1
+gunzip /home/cyx/pdbfiles/pdb4ebd.ent.gz
+/home/cyx/pdbfiles/pdb4ebd.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4ebd.ent
+dealing with 4ebd
+will read 4ei4 1
+gunzip /home/cyx/pdbfiles/pdb4ei4.ent.gz
+/home/cyx/pdbfiles/pdb4ei4.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4ei4.ent
+dealing with 4ei4
+will read 1dwv 1
+gunzip /home/cyx/pdbfiles/pdb1dwv.ent.gz
+/home/cyx/pdbfiles/pdb1dwv.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1dwv.ent
+dealing with 1dwv
+will read 5mhq 1
+gunzip /home/cyx/pdbfiles/pdb5mhq.ent.gz
+/home/cyx/pdbfiles/pdb5mhq.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5mhq.ent
+dealing with 5mhq
+will read 2pik 2
+gunzip /home/cyx/pdbfiles/pdb2pik.ent.gz
+/home/cyx/pdbfiles/pdb2pik.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2pik.ent
+dealing with 2pik
+wrong resnum 31 in A
+will read 2l65 2
+gunzip /home/cyx/pdbfiles/pdb2l65.ent.gz
+/home/cyx/pdbfiles/pdb2l65.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2l65.ent
+dealing with 2l65
+wrong resnum 622 in A
+will read 1zpd 1
+gunzip /home/cyx/pdbfiles/pdb1zpd.ent.gz
+/home/cyx/pdbfiles/pdb1zpd.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1zpd.ent
+dealing with 1zpd
+will read 1zpd 1
+gunzip /home/cyx/pdbfiles/pdb1zpd.ent.gz
+/home/cyx/pdbfiles/pdb1zpd.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1zpd.ent
+dealing with 1zpd
+will read 4eux 1
+downloading pdb4eux.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb4eux.ent.gz
+/home/cyx/pdbfiles/pdb4eux.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4eux.ent
+dealing with 4eux
+will read 5adi 1
+gunzip /home/cyx/pdbfiles/pdb5adi.ent.gz
+/home/cyx/pdbfiles/pdb5adi.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5adi.ent
+dealing with 5adi
+will read 4ugx 1
+downloading pdb4ugx.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb4ugx.ent.gz
+/home/cyx/pdbfiles/pdb4ugx.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4ugx.ent
+dealing with 4ugx
+will read 4d37 1
+gunzip /home/cyx/pdbfiles/pdb4d37.ent.gz
+/home/cyx/pdbfiles/pdb4d37.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4d37.ent
+dealing with 4d37
+will read 3jww 1
+gunzip /home/cyx/pdbfiles/pdb3jww.ent.gz
+/home/cyx/pdbfiles/pdb3jww.ent.gz is read
+finish /home/cyx/pdbfiles/pdb3jww.ent
+dealing with 3jww
+will read 4k5f 1
+gunzip /home/cyx/pdbfiles/pdb4k5f.ent.gz
+/home/cyx/pdbfiles/pdb4k5f.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4k5f.ent
+dealing with 4k5f
+will read 5jk8 1
+downloading pdb5jk8.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb5jk8.ent.gz
+/home/cyx/pdbfiles/pdb5jk8.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5jk8.ent
+dealing with 5jk8
+will read 1sp6 3
+gunzip /home/cyx/pdbfiles/pdb1sp6.ent.gz
+/home/cyx/pdbfiles/pdb1sp6.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1sp6.ent
+dealing with 1sp6
+will read 3m8z 1
+gunzip /home/cyx/pdbfiles/pdb3m8z.ent.gz
+/home/cyx/pdbfiles/pdb3m8z.ent.gz is read
+finish /home/cyx/pdbfiles/pdb3m8z.ent
+dealing with 3m8z
+will read 5xqa 1
+gunzip /home/cyx/pdbfiles/pdb5xqa.ent.gz
+/home/cyx/pdbfiles/pdb5xqa.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5xqa.ent
+dealing with 5xqa
+will read 5vn4 1
+gunzip /home/cyx/pdbfiles/pdb5vn4.ent.gz
+/home/cyx/pdbfiles/pdb5vn4.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5vn4.ent
+dealing with 5vn4
+will read 4zek 1
+gunzip /home/cyx/pdbfiles/pdb4zek.ent.gz
+/home/cyx/pdbfiles/pdb4zek.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4zek.ent
+dealing with 4zek
+will read 2lwn 5
+gunzip /home/cyx/pdbfiles/pdb2lwn.ent.gz
+/home/cyx/pdbfiles/pdb2lwn.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2lwn.ent
+dealing with 2lwn
+will read 1kgz 1
+gunzip /home/cyx/pdbfiles/pdb1kgz.ent.gz
+/home/cyx/pdbfiles/pdb1kgz.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1kgz.ent
+dealing with 1kgz
+will read 4owq 1
+gunzip /home/cyx/pdbfiles/pdb4owq.ent.gz
+/home/cyx/pdbfiles/pdb4owq.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4owq.ent
+dealing with 4owq
+will read 5byt 1
+gunzip /home/cyx/pdbfiles/pdb5byt.ent.gz
+/home/cyx/pdbfiles/pdb5byt.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5byt.ent
+dealing with 5byt
+will read 5c7s 1
+gunzip /home/cyx/pdbfiles/pdb5c7s.ent.gz
+/home/cyx/pdbfiles/pdb5c7s.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5c7s.ent
+dealing with 5c7s
+will read 1d6n 1
+gunzip /home/cyx/pdbfiles/pdb1d6n.ent.gz
+/home/cyx/pdbfiles/pdb1d6n.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1d6n.ent
+dealing with 1d6n
+will read 1zyk 1
+gunzip /home/cyx/pdbfiles/pdb1zyk.ent.gz
+/home/cyx/pdbfiles/pdb1zyk.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1zyk.ent
+dealing with 1zyk
+will read 2p8d 1
+gunzip /home/cyx/pdbfiles/pdb2p8d.ent.gz
+/home/cyx/pdbfiles/pdb2p8d.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2p8d.ent
+dealing with 2p8d
+will read 2h0n 1
+gunzip /home/cyx/pdbfiles/pdb2h0n.ent.gz
+/home/cyx/pdbfiles/pdb2h0n.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2h0n.ent
+dealing with 2h0n
+will read 2h0n 1
+gunzip /home/cyx/pdbfiles/pdb2h0n.ent.gz
+/home/cyx/pdbfiles/pdb2h0n.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2h0n.ent
+dealing with 2h0n
+will read 2h0n 1
+gunzip /home/cyx/pdbfiles/pdb2h0n.ent.gz
+/home/cyx/pdbfiles/pdb2h0n.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2h0n.ent
+dealing with 2h0n
+will read 4xg6 1
+gunzip /home/cyx/pdbfiles/pdb4xg6.ent.gz
+/home/cyx/pdbfiles/pdb4xg6.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4xg6.ent
+dealing with 4xg6
+will read 1dwj 1
+gunzip /home/cyx/pdbfiles/pdb1dwj.ent.gz
+/home/cyx/pdbfiles/pdb1dwj.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1dwj.ent
+dealing with 1dwj
+wrong resnum 955 in M
+will read 3w28 1
+gunzip /home/cyx/pdbfiles/pdb3w28.ent.gz
+/home/cyx/pdbfiles/pdb3w28.ent.gz is read
+finish /home/cyx/pdbfiles/pdb3w28.ent
+dealing with 3w28
+wrong resnum 402 in A
+will read 2y64 1
+downloading pdb2y64.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb2y64.ent.gz
+/home/cyx/pdbfiles/pdb2y64.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2y64.ent
+dealing with 2y64
+wrong resnum 173 in A

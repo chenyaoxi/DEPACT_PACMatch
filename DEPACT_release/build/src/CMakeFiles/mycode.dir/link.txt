@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libmycode.a  CMakeFiles/mycode.dir/samplerefdist.o CMakeFiles/mycode.dir/atomtypessmarts.o CMakeFiles/mycode.dir/fmmatches.o CMakeFiles/mycode.dir/mmmatches.o CMakeFiles/mycode.dir/extendssas.o CMakeFiles/mycode.dir/bfdecoupling.o CMakeFiles/mycode.dir/buildpocket.o CMakeFiles/mycode.dir/statis_metal.o
+/usr/bin/ranlib ../lib/libmycode.a

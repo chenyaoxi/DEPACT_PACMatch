@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libnspgeometry.a  CMakeFiles/nspgeometry.dir/calculators.o CMakeFiles/nspgeometry.dir/rotation.o CMakeFiles/nspgeometry.dir/quaternioncrd.o CMakeFiles/nspgeometry.dir/quatfit.o CMakeFiles/nspgeometry.dir/line.o CMakeFiles/nspgeometry.dir/loopccd.o CMakeFiles/nspgeometry.dir/rigidtransform.o CMakeFiles/nspgeometry.dir/localframe.o CMakeFiles/nspgeometry.dir/spherepoints.o CMakeFiles/nspgeometry.dir/atomsasa.o
+/usr/bin/ranlib ../../lib/libnspgeometry.a

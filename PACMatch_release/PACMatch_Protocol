@@ -1,0 +1,81 @@
+The PACMatch method is a computational approach to match pocket residues in a cluster model to positions on given protein scaffolds.
+
+Notice: our program was compiled in: Linux version 5.4.0-88-generic (buildd@lgw01-amd64-008) (gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)) #99-Ubuntu SMP Thu Sep 23 17:29:00 UTC 2021
+
+In ~/.bashrc, the user should add a new environmental parameter:
+export ABACUS_DATAPATH=${path}/PACMatch_release/data/
+where ${path} should be replaced by your specific directory.
+For installation, go to the directory /build and type:
+cmake ..
+make
+After everything is established successfully, you will be able to use the program.
+
+In PACMatch package, it has 2 functions:
+PACMatchPocketMatch
+  Function: Match pocket with protein scaffold.
+PACMatchClashSite
+  Function: Find sites in scaffold which may clash with a pocket.
+
+PACMatch DEMO
+
+PACMatchPocketMatch
+First, /Pocket/ and /Scaffold/ directories should be prepared. For /Pocket/, it should contain only one pocket in PDB form. For /Scaffold/, it could contain one scaffold or an ensemble of scaffolds with the same amino acid length, and also in PDB form.
+Second, four inputfiles should be prepared: 1. input.par, the input parameter file for PACMatchPocketMatch; 2. al.txt, describing key atom lists; 3. kr.txt, presenting which are key residues and their specific RMSD threshold; and 4. region.reg, listing candidate sites in scaffold. Demos of all these four files are in /file_input/. And their contents are discussed in the following.
+
+1. kam.par
+PocketDir = ../Pocket
+# The PATH of /Pocket/ directory.
+ScaffoldDir = ../Scaffold
+# The PATH of /Scaffold/ directory.
+Region = region.reg
+# region.reg file that listing candidate sites.
+MovePocket = ON
+# ON: Ligand position is moveable during the match (Graph Match); OFF: Ligand position is fixed during the match (Direct Match).
+RMSDCutoff = 2.0
+# Key atom RMSD cutoff for each pocket residue as default when calculating the match.
+KeyResidues = kr.txt
+# The input file that listing key residues and their RMSD cutoff.
+AtomList = al.txt
+# al.txt file that listing key atoms.
+LigScaMCClash = 1.5
+# Clash threshold for the distance (Å) between ligand atom and scaffold mainchain atom.
+PocSCClash = 1.5
+# Clash threshold for the distance (Å) between Pocket sidechain atom and pocket sidechain atom.
+LigPocSCClash = 1.0
+# Clash threshold for the distance (Å) between ligand atom and pocket sidechain atom.
+RotLibChoice = 
+# It's blank here. If you want to define which rotamer library to use, then you can try rlc.txt, which is also in file_input. In the first line, "default 1 for 13" means defaultly using RotamerLib 1 for all 13 pocket residues. Then the following lines show exceptions, such as "3 2" means residue ID 3 (the fourth residue, as it begins with ID 0) will use RotamerLib 2.
+
+2. al.txt: Every line lists key atoms for one pocket residue. Such as "2 1 PHE CZ CE2" means residue PHE in chainID 2, reisdueID 1 have key atoms CZ and CE2. Notice: the contents should be written as the sequence of those in Pocket file.
+
+3. kr.txt: first line lists the RMSD threshold of all key residues, such as "RMSD 1.5" means the RMSD threshold is 1.5 angstroms for all key residues. Then following lines list key residue ID, which also starts by ID 0 and are in the same sequence as those in Pocket file (e.g. 4 means the fifth residue in Pocket file).
+
+4 region.reg: each line lists a successive candidate sites, or just one candidate site. e.g. "B 763 764" means residueID 763-764 of chainID B in Scaffold file are included, and "B 782 782" means residueID 782 of chainID B in Scaffold file is included.
+
+After preparing all the above files, you can use PACMatchPocketMatch:
+
+~/*/PACMatch_release/build/test/PACMatchPocketMatch input.par > out.txt 2>err.txt
+
+Output files include:
+new_Pocket_*.pdb: output matches in PDB form.
+match.txt: For each block, it contains three informations: 1. "Pocket A (new_Pocket_*.pdb) & Scaffold B with score *" presents the score of match (named new_Pocket_*.pdb) between Pocket A and Scaffold B; 2. "1_2_TYR : B_764 with RMSD 0.365192" presents pocket residue TYR with ChainID 1, residueID 2 find position in ChainID B, residueID 764 of scaffold; 3. "Pocket A & Scaffold B have good-match(<1.0A) 10 in 13" presents how many residues matches very good (RMSD within 1.0 angstrom).
+clash.txt: reasons to discard some other matches.
+out.txt: Listing match process, including Pocket Residue Info, match numbers and time for the match process.
+
+PACMatchClashSite
+A simple way to find sites in scaffold whose C-alphas have clash with the pocket model (or a match result). Input file input.par has the following parameters:
+ERotCutoff = 4.0
+# Rotamer energy cutoff when considering rotamer possibilities for all sites.
+MatchPocket = ../PNative/Native_2389.pdb
+# The pocket in PDB form for checking clash.
+MatchScaffold = ../SNative/1f2u.pdb
+# The scaffold matching with this pocket.
+MS_NeighborRMSD = 7.0
+# Distance cutoff between C-alpha and ligand atom. Only cites within this cutoff will be considered to have clash with ligand.
+NativeScaffold = ../SNative/1f2u.pdb
+# Sometimes there is only a small conformational change between the native scaffold and your scaffold(s) to be matched, so you can use this to see the clash condition for native scaffold.
+After preparing the input.par, you can run PACMatchClashSite:
+
+~/*/PACMatch_release/build/test/PACMatchClashSite input.par > sites.txt
+
+Output file sites.txt contains 1. Neighbor sites in match scaffold, named by "ChainID ResidueID"; 2. Sites of pocket residues in match scaffold, named by "PocketResidue 1 2 TYR matches in B 764", presenting residue in ChainID1, ResidueID 2 finds site in ChainIDB, ResidueID 764 in matched scaffold; 3. Clash sites in MatchScaffold; 4. Clash sites in Native Scaffold.

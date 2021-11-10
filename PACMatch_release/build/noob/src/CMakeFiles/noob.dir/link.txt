@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libnoob.a  CMakeFiles/noob.dir/theozyme.o CMakeFiles/noob.dir/myclique.o
+/usr/bin/ranlib ../../lib/libnoob.a

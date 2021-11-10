@@ -1,0 +1,11 @@
+PocketDir = ../Pocket
+ScaffoldDir = ../Scaffold
+Region = region.reg
+MovePocket = ON
+RMSDCutoff = 2.0
+KeyResidues = kr.txt
+AtomList = al.txt
+LigScaMCClash = 1.5
+PocSCClash = 1.5
+LigPocSCClash = 1.0
+RotLibChoice = 

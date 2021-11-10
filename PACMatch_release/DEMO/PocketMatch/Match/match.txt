@@ -1,0 +1,1500 @@
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_0.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.04681
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 10 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_1.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.11353
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_2.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.11649
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_3.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.17022
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_4.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.18321
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_5.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.2399
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 7 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_6.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.35458
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 10 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_7.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.36068
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 10 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_8.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.36144
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 10 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_9.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.36542
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_38 with RMSD 0.735561
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 10 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_10.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.41246
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_11.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.42131
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_12.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.42349
+1_1_LYS : no acceptable match
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_13.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.42426
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_14.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.42427
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : no acceptable match
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_15.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.42527
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : no acceptable match
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_16.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.4264
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : no acceptable match
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_17.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.4274
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_18.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.42817
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_19.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.43036
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_20.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.43112
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_21.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.43215
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_38 with RMSD 0.735561
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_22.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.4351
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_38 with RMSD 0.735561
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_23.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.478
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_24.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.47919
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_25.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.48018
+1_1_LYS : no acceptable match
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_26.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.48214
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_27.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.48409
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_28.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.48486
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_29.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.48884
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_38 with RMSD 0.735561
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_30.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.49099
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_31.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.49099
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : no acceptable match
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_32.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.49199
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : no acceptable match
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_33.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.49313
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : no acceptable match
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_34.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.49317
+1_1_LYS : no acceptable match
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_35.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.49495
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : no acceptable match
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_36.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.49608
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : no acceptable match
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_37.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.49708
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_38.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.49785
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_39.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.50183
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_38 with RMSD 0.735561
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_40.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.53588
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 7 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_41.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.54767
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 7 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_42.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.54768
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : no acceptable match
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 7 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_43.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.54887
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 7 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_44.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.54982
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : no acceptable match
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 7 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_45.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.54986
+1_1_LYS : no acceptable match
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 7 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_46.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.55377
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 7 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_47.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.55454
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 7 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_48.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.55852
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_38 with RMSD 0.735561
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 7 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_49.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.56167
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : no acceptable match
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 7 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_50.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.56281
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : no acceptable match
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 7 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_51.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.60556
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 6 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_52.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.6195
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : no acceptable match
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 6 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_53.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.66845
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 10 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_54.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.66922
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 10 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_55.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.67319
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_38 with RMSD 0.735561
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 10 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_56.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.67531
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 10 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_57.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.67929
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_38 with RMSD 0.735561
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 10 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_58.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.72023
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_59.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.72633
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_60.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.7271
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_61.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.73127
+1_1_LYS : no acceptable match
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_62.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.73204
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : no acceptable match
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_63.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.73304
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : no acceptable match
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_64.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.73418
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : no acceptable match
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_65.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.73518
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_66.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.73594
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_67.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.73736
+1_1_LYS : no acceptable match
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_68.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.73813
+1_1_LYS : no acceptable match
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_69.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.73813
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_70.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.73814
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : no acceptable match
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_71.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.7389
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_72.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.7389
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : no acceptable match
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_73.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.73914
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : no acceptable match
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_74.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.7399
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : no acceptable match
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_75.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.73992
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_38 with RMSD 0.735561
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_76.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.74027
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : no acceptable match
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_77.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.74104
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : no acceptable match
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_78.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.74204
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_79.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.74211
+1_1_LYS : no acceptable match
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_38 with RMSD 0.735561
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_80.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.74287
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_38 with RMSD 0.735561
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_81.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.74288
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_38 with RMSD 0.735561
+4_1_ASN : no acceptable match
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_82.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.74388
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : no acceptable match
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_38 with RMSD 0.735561
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_83.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.74499
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_84.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.74502
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : no acceptable match
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_38 with RMSD 0.735561
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_85.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.74602
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_38 with RMSD 0.735561
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_86.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.74897
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_38 with RMSD 0.735561
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 9 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_87.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.78696
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_88.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.78795
+1_1_LYS : no acceptable match
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_89.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.78915
+1_1_LYS : no acceptable match
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_90.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.78991
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : B_795 with RMSD 1.95766
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_91.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.78992
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : no acceptable match
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_92.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.79092
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : no acceptable match
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_93.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.79186
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_94.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.79206
+1_1_LYS : B_763 with RMSD 0.416238
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : no acceptable match
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_95.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.79263
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : no acceptable match
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_96.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.79306
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_97.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.79382
+1_1_LYS : C_33 with RMSD 1.78036
+1_2_TYR : B_764 with RMSD 0.365192
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : no acceptable match
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_98.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.79405
+1_1_LYS : no acceptable match
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : no acceptable match
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : C_38 with RMSD 1.6115
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13
+Pocket ../Pocket/Native_2389.pdb (new_Pocket_99.pdb) & Scaffold ../Scaffold/1f2u.pdb with score 1.79482
+1_1_LYS : no acceptable match
+1_2_TYR : B_763 with RMSD 1.43716
+2_1_PHE : B_791 with RMSD 1.95914
+2_3_SER : B_793 with RMSD 0.32895
+2_6_GLU : B_796 with RMSD 0.250555
+3_1_ARG : C_12 with RMSD 0.661528
+4_1_ASN : C_32 with RMSD 0.394719
+4_3_SER : C_34 with RMSD 0.0828553
+4_5_LYS : C_36 with RMSD 1.63418
+4_6_SER : C_37 with RMSD 0.0996423
+4_7_SER : no acceptable match
+5_3_VAL : C_64 with RMSD 0.0472341
+6_1_GLN : C_140 with RMSD 0.112604
+Pocket ../Pocket/Native_2389.pdb & Scaffold ../Scaffold/1f2u.pdb have good-match(<1.0A) 8 in 13

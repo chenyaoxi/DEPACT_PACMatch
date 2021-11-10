@@ -1,0 +1,130 @@
+The DEPACT (Design Pocket as a Cluster based on Templates) method is a data-driven approach to design and evaluate small molecule-binding pockets as isolated clusters.
+
+Notice: our program was compiled in: Linux version 5.4.0-88-generic (buildd@lgw01-amd64-008) (gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)) #99-Ubuntu SMP Thu Sep 23 17:29:00 UTC 2021
+
+In ~/.bashrc, the user should add a new environmental parameter:
+export DEPACT_DATAPATH=${path}/DEPACT_release/bf_table/
+where ${path} should be replaced by your specific directory.
+For installation, it is based on the openbabel (ob) library. We also packaged the openbabel as openbabel.tar.gz for your convenience. After preparing ob, you can return to DEPACT_release and go to the directory /build and type:
+cmake ..
+make
+After everything is established successfully, you will be able to use the program.
+User should download all-sdf.sdf file from PDB and move it into the directory /bf_table, which inlcuding all ligand informations in one file. The website for download this all-sdf.sdf file is in http://ligand-expo.rcsb.org/ld-download.html
+
+In DEPACT package, it has 5 functions:
+DEPACTBFEstablishment
+  Function: Establish linkage files bf_*.txt, which includes ligand with the same BF.
+DEPACTTargetBF
+  Function: Decompose target ligand into BF for the input file of DEPACTPocketDesign.
+DEPACTNativePocket
+  Function: Extract a native pocket from a ligand binding protein.
+DEPACTAllNativePockets
+  Function: Extract all native pockets for certain ligand.
+DEPACTPocketDesign
+  Function: De novo pocket design for target ligand. 
+
+
+DEPACT DEMO
+
+DEPACTBFEstablishment
+Go to the directory /*/bf_table/ for preparing basicfragments.txt specific for your target ligand. Here we use ATP.sdf as an example. You can define its basic fragments by rewrite /*/bf_table/basicfragments.txt, just like the file basicfragments.txt in the demo BFEstablishment directory. A notice is that if there has already been your certain target BF with bf_*.txt in /bf_table/, then you should delete it or just don't write it again in basicfragments.txt when you do this step. The reason is that all BFs in basicfragments.txt will try to write bf_*.txt, if it has already existed, then all contents will be added behined (e.g. written twice).
+Then, still in the directory /bf_table/, run the following code to prepare bf_*.txt, which lists all ligands with such basic fragment.
+
+/*/DEPACT_release/build/test/DEPACTBFEstablishment all-sdf.sdf
+
+Waiting for several minutes, you will get results like those bf_*.txt files in demo.
+
+
+DEPACTTargetBF
+In order to check whether you defined a suitable basicfragments.txt as well as establish the target_bf.txt file for your target ligand, here is what you need to do.
+All necessary input files are in the directory /file_input/, you can copy it or prepare the same files in your workspace. Input file is ATP.sdf : the target ligand in SDF form. Then, you can run targetbf program
+
+/*/DEPACT_release/build/test/DEPACTTargetBF ATP.sdf
+
+Output file includes:
+target_bf.txt : a linkage file that helps deconstructing ATP.sdf into BFs.
+If you find some target BFs you defined in the basicfragments.txt don't show in this file, which means that their definitions are incorrect so they can't be found in your target ligand.
+
+
+DEPACTNativePocket
+All necessary input files are in the directory /file_input/, you can copy it or prepare the same files in your workspace. These files include:
+1f2u.pdb : the binding protein for your target ligand.
+ATP.sdf : the target ligand in SDF form.
+np.par : the parameter file for DEPACTNativePocket
+Before extracting the pocket, you should prepare and check the basicfragments.txt file. It should contain all BFs required for your target ligand. Then, you can run DEPACTNativePocket to extract its pocket.
+
+/*/DEPACT_release/build/test/DEPACTNativePocket np.par
+
+Here, we try to explain each parameter mentioned in np.par file, so that user can use it conveniently. Each term is followed by their # explanation respectively.
+
+Ligand = ATP.sdf
+# Position and name of target ligand.
+Protein = 1f2u.pdb
+# The pocket from 1f2u.pdb will be extracted.
+Wdmldpl = 1.0
+# Weight of direct contacts divided by weight of indirect contacts. Larger value means direct contacts are favored, and small value means indirect contacts are favored.
+IsStrongPocket = True
+# True means you want to only extract the strong contacting pocket, you can use False if you want to extract the intact pocket (with all residues having contacts with the ligand).
+
+Output files include:
+Native_*.pdb : binding pocket structure.
+nativescore.txt : scores of the binding pockets.
+
+
+DEPACTAllNativePockets
+All necessary input files are in the directory /file_input/, you can copy it or prepare the same files in your workspace. These files include:
+ATP.sdf : the target ligand in SDF file
+title.txt : all ATP-binding protein titles, which can be created by the following code: grep 'ATP' all-sdf.sdf > title.txt. Here we only choose 10 protein titles as examples.
+Before extracting the pocket, you should prepare and check the basicfragments.txt file by what is mentioned before, until it can cover your target ligand. Then, you can run DEPACTAllNativePockets to extract and evaluate all the pockets.
+
+/*/DEPACT_release/build/test/DEPACTAllNativePockets title.txt True {1.0}
+
+Here, the input "True" means you want to extract more intact pockets, you can use False if you only want to extract the strong contacting pockets. For {1.0}, it's optional if you want to change the weight between direct contacts and indirect contacts.
+Output files include:
+Native_*.pdb : binding pocket structures. Here we move them into the directory Native as convenience.
+native_score.txt : scores of the binding pockets.
+native_detail.txt : score components of the binding pockets.
+
+
+DEPACTPocketDesign
+All necessary input files are in the directory /file_input/, you can copy it or prepare the same files in your workspace. These files include:
+input.par : the parameter file.
+target_bf.txt : linkage file that helps deconstructing ATP.sdf into basic fragments.
+ATP.sdf : the target ligand in SDF form.
+Then, you can run DEPACTPocketDesign in the background
+
+nohup /*/DEPACT_release/build/test/DEPACTPocketDesign input.par > out.txt 2>err.txt &
+
+Here, we try to explain each parameter mentioned in input.par parameter file, so that user can use it conveniently. Each term in input.par is followed by their # exlpanation respectively.
+
+target_bf = target_bf.txt
+# Position and name of target_bf.txt, which should be prepared previously.
+target.sdf = ATP.sdf
+# Position and name of target ligand, which is in SDF form.
+special_contacts = NO
+# NO is for the pocket design of ligand without other cofactors. If there is cofactor(s) for the target ligand and you don’t want to design pockets clash with the cofactor’s position, you can type "special_contacts = pdb A.pdb" where pdb presents the type of the file, and A.pdb presents cofactor coordinates that Interaction Motifs shouldn’t within 5 Å.
+bf_needs = 100
+# Number of template ligands that will be used based on each basic fragment.
+pocket_num = 10
+# Number of pockets that you want to design.
+seed = 13579
+# Random seed for starting the program.
+percentage = 1.0
+# Those template ligands with Tanimoto similarity higher than this value will not be used. This parameter was set for testing DEPACT.
+threshold = 0.2
+# Percentage that Interaction Motifs contacting with the same Common Fragmentswill be kept. 0.2 means only Interaction Motifs with score ranked top 20% will be kept and used for pocket design.
+no_change_num = auto
+# During Monte Carlo process, if one pocket rejects new Interaction Motifs forN times, then this pocket is taken as completed. Here no_change_num is this N. If it is set as auto, then N equals to 40% Interaction Motifs’ number.
+tot_run_num = auto
+# During Monte Carlo process, if N Interaction Motifs have been tried to update the pocket, then the pocket is taken as completed. Here tot_run_num is this N. If it is set as auto, then N equals to 5 times of Interaction Motifs’ number.
+weight_dmldpl = 1.0
+# Weight of direct contacts divided by weight of indirect contacts. Larger value means direct contacts are favored, and small value means indirect contacts are favored.
+output_fssites = NO
+# NO means do not output Interaction Motifs’ structures. If you want them, you can set "output_fssites = YES"
+
+Output files include:
+design_record.txt : process records
+Pocket_*.pdb : output ATP-binding pocket structures.
+pocket_score.txt : scores and ranks of these designed pockets.
+pocket_details.txt : detailed score components of these designed pockets.
+tmplt_similarity.txt : template ligands used in the design process and their Tanimoto similarity with the target ligand.

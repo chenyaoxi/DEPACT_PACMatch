@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libnspdataio.a  CMakeFiles/nspdataio.dir/inputlines.o CMakeFiles/nspdataio.dir/splitstring.o CMakeFiles/nspdataio.dir/datapaths.o CMakeFiles/nspdataio.dir/pdbfolder.o CMakeFiles/nspdataio.dir/controlfile.o
+/usr/bin/ranlib ../../lib/libnspdataio.a

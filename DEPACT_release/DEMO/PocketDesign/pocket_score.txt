@@ -1,0 +1,32 @@
+Pocket_0 total score: -44.7603
+ mmber: 95 2 68 116 52 76 
+Pocket_1 total score: -40.0304
+ mmber: 115 3 72 59 42 103 
+Pocket_2 total score: -36.2151
+ mmber: 114 98 60 0 
+Pocket_3 total score: -41.7086
+ mmber: 0 114 59 52 98 72 
+Pocket_4 total score: -42.614
+ mmber: 68 90 72 116 34 40 
+Pocket_5 total score: -46.2836
+ mmber: 98 34 62 3 59 72 115 
+Pocket_6 total score: -45.0782
+ mmber: 76 90 68 4 42 116 
+Pocket_7 total score: -39.6691
+ mmber: 115 90 42 78 76 
+Pocket_8 total score: -39.5858
+ mmber: 2 76 119 52 91 
+Pocket_9 total score: -44.3038
+ mmber: 68 98 0 21 33 116 
+Pockets Evaluation:
+Pocket_ID  Score
+0 -44.7603
+1 -40.0304
+2 -36.2151
+3 -41.7086
+4 -42.614
+5 -46.2836
+6 -45.0782
+7 -39.6691
+8 -39.5858
+9 -44.3038

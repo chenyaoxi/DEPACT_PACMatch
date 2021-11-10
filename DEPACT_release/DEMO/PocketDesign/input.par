@@ -1,0 +1,12 @@
+target_bf = target_bf.txt
+target.sdf = ATP.sdf
+special_contacts = NO
+bf_needs = 20
+pocket_num = 10
+seed = 13579
+percentage = 0.8
+threshold = 0.2
+no_change_num = auto
+tot_run_num = auto
+weight_dmldpl = 1.0
+output_ssites = YES

@@ -1,0 +1,135 @@
+wdmldpl = 1.0, otherwise the third input parameter as weight is required
+downloading pdb4j5y.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb4j5y.ent.gz
+/home/cyx/pdbfiles/pdb4j5y.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4j5y.ent
+downloading pdb4eoq.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb4eoq.ent.gz
+/home/cyx/pdbfiles/pdb4eoq.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4eoq.ent
+downloading pdb1r0z.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb1r0z.ent.gz
+/home/cyx/pdbfiles/pdb1r0z.ent.gz is read
+finish /home/cyx/pdbfiles/pdb1r0z.ent
+downloading pdb4aar.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb4aar.ent.gz
+/home/cyx/pdbfiles/pdb4aar.ent.gz is read
+finish /home/cyx/pdbfiles/pdb4aar.ent
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+new mediate type: PO4
+downloading pdb2v51.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb2v51.ent.gz
+/home/cyx/pdbfiles/pdb2v51.ent.gz is read
+finish /home/cyx/pdbfiles/pdb2v51.ent
+downloading pdb6blk.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb6blk.ent.gz
+/home/cyx/pdbfiles/pdb6blk.ent.gz is read
+finish /home/cyx/pdbfiles/pdb6blk.ent
+downloading pdb3dvl.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb3dvl.ent.gz
+/home/cyx/pdbfiles/pdb3dvl.ent.gz is read
+finish /home/cyx/pdbfiles/pdb3dvl.ent
+downloading pdb5svp.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb5svp.ent.gz
+/home/cyx/pdbfiles/pdb5svp.ent.gz is read
+finish /home/cyx/pdbfiles/pdb5svp.ent
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+new mediate type: NA
+downloading pdb3j94.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb3j94.ent.gz
+/home/cyx/pdbfiles/pdb3j94.ent.gz is read
+finish /home/cyx/pdbfiles/pdb3j94.ent
+downloading pdb6bco.ent.gz from internet...
+moving downloaded file 
+gunzip /home/cyx/pdbfiles/pdb6bco.ent.gz
+/home/cyx/pdbfiles/pdb6bco.ent.gz is read
+finish /home/cyx/pdbfiles/pdb6bco.ent
+finish all process

@@ -1,0 +1,7 @@
+link_directories(${PROJECT_BINARY_DIR}/lib)
+add_executable(testtransform testtransform.cpp)
+add_executable(testcrdtree testcrdtree.cpp)
+add_executable(testcalculators testcalculators.cpp)
+target_link_libraries (testtransform nspgeometry)
+target_link_libraries (testcalculators nspgeometry)
+target_link_libraries (testcrdtree nspdstl nspgeometry)

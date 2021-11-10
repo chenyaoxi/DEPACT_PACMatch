@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libnspproteinrep.a  CMakeFiles/nspproteinrep.dir/intatomkey.o CMakeFiles/nspproteinrep.dir/pdbrecord.o CMakeFiles/nspproteinrep.dir/pdbreader.o CMakeFiles/nspproteinrep.dir/aminoacidseq.o CMakeFiles/nspproteinrep.dir/aaconformer.o CMakeFiles/nspproteinrep.dir/idealgeometries.o CMakeFiles/nspproteinrep.dir/chaintree.o
+/usr/bin/ranlib ../../lib/libnspproteinrep.a

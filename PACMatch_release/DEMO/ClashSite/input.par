@@ -1,0 +1,5 @@
+ERotCutoff = 4.0
+MatchPocket = Native_2389.pdb
+MatchScaffold = 1f2u.pdb
+MS_NeighborRMSD = 7.0
+NativeScaffold = 1f2u.pdb

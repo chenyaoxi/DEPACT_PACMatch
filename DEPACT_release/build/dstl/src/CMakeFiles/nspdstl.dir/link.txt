@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libnspdstl.a  CMakeFiles/nspdstl.dir/nestedcontainers.o CMakeFiles/nspdstl.dir/domain.o CMakeFiles/nspdstl.dir/pca.o CMakeFiles/nspdstl.dir/nnregressionmodel.o CMakeFiles/nspdstl.dir/graph.o
+/usr/bin/ranlib ../../lib/libnspdstl.a
