@@ -5,7 +5,8 @@ Notice: our program was compiled in: Linux version 5.4.0-88-generic (buildd@lgw0
 In ~/.bashrc, the user should add a new environmental parameter:
 export DEPACT_DATAPATH=${path}/DEPACT_release/bf_table/
 where ${path} should be replaced by your specific directory.
-For installation, it is based on the openbabel (ob) library. We also packaged the openbabel as openbabel.tar.gz for your convenience. After preparing ob, you can return to DEPACT_release and go to the directory /build and type:
+You can directly use the codes in /build/test if you directly git pull the program
+ in Linux. If you need installation, it is based on the openbabel (ob) library. We also packaged the openbabel as openbabel.tar.gz for your convenience. After preparing ob, you can return to DEPACT_release and go to the directory /build and type:
 cmake ..
 make
 After everything is established successfully, you will be able to use the program.

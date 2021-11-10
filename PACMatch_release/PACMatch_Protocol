@@ -5,7 +5,7 @@ Notice: our program was compiled in: Linux version 5.4.0-88-generic (buildd@lgw0
 In ~/.bashrc, the user should add a new environmental parameter:
 export ABACUS_DATAPATH=${path}/PACMatch_release/data/
 where ${path} should be replaced by your specific directory.
-For installation, go to the directory /build and type:
+You can directly use the codes in /build/test if you directly git pull the program in Linux. If you need installation, go to the directory /build and type:
 cmake ..
 make
 After everything is established successfully, you will be able to use the program.
