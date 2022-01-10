@@ -464,7 +464,7 @@ int main(int argc, char **argv)
 			{
 				no_change++;// as == means the original pocket
 			}
-			else if (exp(0.47*(score-sums[minp])) > rand()/(RAND_MAX+0.0)) // 1/e^(0.47*1.5) ~ 0.5
+			else if (1/exp(0.466*(score-sums[minp])) > rand()/(RAND_MAX+0.0)) // 1/e^(0.47*1.5) ~ 0.5
 			{
 				std::vector<int> new_mmber;
 				for (auto m : mmbers[minp])
