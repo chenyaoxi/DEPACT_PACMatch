@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/cyx/workspace/DEPACT_release
+CMAKE_SOURCE_DIR = /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/cyx/workspace/DEPACT_release/build
+CMAKE_BINARY_DIR = /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,14 +80,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/cyx/workspace/DEPACT_release/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/cyx/workspace/DEPACT_release/build/CMakeFiles /home/cyx/workspace/DEPACT_release/build/proteinrep/src/CMakeFiles/progress.marks
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 proteinrep/src/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/cyx/workspace/DEPACT_release/build/CMakeFiles 0
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/CMakeFiles /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/proteinrep/src/CMakeFiles/progress.marks
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 proteinrep/src/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 proteinrep/src/clean
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 proteinrep/src/clean
 .PHONY : clean
 
 # The main clean target
@@ -97,22 +97,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 proteinrep/src/preinstall
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 proteinrep/src/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 proteinrep/src/preinstall
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 proteinrep/src/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/cyx/workspace/DEPACT_release/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 proteinrep/src/CMakeFiles/nspproteinrep.dir/rule:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 proteinrep/src/CMakeFiles/nspproteinrep.dir/rule
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 proteinrep/src/CMakeFiles/nspproteinrep.dir/rule
 .PHONY : proteinrep/src/CMakeFiles/nspproteinrep.dir/rule
 
 # Convenience name for target.
@@ -122,82 +122,82 @@ nspproteinrep: proteinrep/src/CMakeFiles/nspproteinrep.dir/rule
 
 # fast build rule for target.
 nspproteinrep/fast:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/build
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/build
 .PHONY : nspproteinrep/fast
 
 # target to build an object file
 aaconformer.o:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/aaconformer.o
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/aaconformer.o
 .PHONY : aaconformer.o
 
 # target to preprocess a source file
 aaconformer.i:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/aaconformer.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/aaconformer.i
 .PHONY : aaconformer.i
 
 # target to generate assembly for a file
 aaconformer.s:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/aaconformer.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/aaconformer.s
 .PHONY : aaconformer.s
 
 # target to build an object file
 aminoacidseq.o:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/aminoacidseq.o
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/aminoacidseq.o
 .PHONY : aminoacidseq.o
 
 # target to preprocess a source file
 aminoacidseq.i:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/aminoacidseq.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/aminoacidseq.i
 .PHONY : aminoacidseq.i
 
 # target to generate assembly for a file
 aminoacidseq.s:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/aminoacidseq.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/aminoacidseq.s
 .PHONY : aminoacidseq.s
 
 # target to build an object file
 intatomkey.o:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/intatomkey.o
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/intatomkey.o
 .PHONY : intatomkey.o
 
 # target to preprocess a source file
 intatomkey.i:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/intatomkey.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/intatomkey.i
 .PHONY : intatomkey.i
 
 # target to generate assembly for a file
 intatomkey.s:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/intatomkey.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/intatomkey.s
 .PHONY : intatomkey.s
 
 # target to build an object file
 pdbreader.o:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/pdbreader.o
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/pdbreader.o
 .PHONY : pdbreader.o
 
 # target to preprocess a source file
 pdbreader.i:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/pdbreader.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/pdbreader.i
 .PHONY : pdbreader.i
 
 # target to generate assembly for a file
 pdbreader.s:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/pdbreader.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/pdbreader.s
 .PHONY : pdbreader.s
 
 # target to build an object file
 pdbrecord.o:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/pdbrecord.o
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/pdbrecord.o
 .PHONY : pdbrecord.o
 
 # target to preprocess a source file
 pdbrecord.i:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/pdbrecord.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/pdbrecord.i
 .PHONY : pdbrecord.i
 
 # target to generate assembly for a file
 pdbrecord.s:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/pdbrecord.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f proteinrep/src/CMakeFiles/nspproteinrep.dir/build.make proteinrep/src/CMakeFiles/nspproteinrep.dir/pdbrecord.s
 .PHONY : pdbrecord.s
 
 # Help Target
@@ -235,6 +235,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/cyx/workspace/DEPACT_release/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

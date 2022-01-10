@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-../dataio/datapaths.h
+/home/cyx/workspace/DEPACT_release/dataio/datapaths.h
 string
 -
 
-../dataio/inputlines.h
+/home/cyx/workspace/DEPACT_release/dataio/inputlines.h
 string
 -
 vector
@@ -20,17 +20,17 @@ memory
 boost/lexical_cast.hpp
 -
 macros.h
-../dataio/macros.h
+/home/cyx/workspace/DEPACT_release/dataio/macros.h
 dstl/nestedcontainers.h
-../dataio/dstl/nestedcontainers.h
+/home/cyx/workspace/DEPACT_release/dataio/dstl/nestedcontainers.h
 
-../dstl/mapkeyint.h
+/home/cyx/workspace/DEPACT_release/dstl/mapkeyint.h
 map
 -
 vector
 -
 
-../dstl/nestedcontainers.h
+/home/cyx/workspace/DEPACT_release/dstl/nestedcontainers.h
 vector
 -
 iostream
@@ -38,31 +38,31 @@ iostream
 functional
 -
 
-../geometry/calculators.h
+/home/cyx/workspace/DEPACT_release/geometry/calculators.h
 geometry/xyz.h
-../geometry/geometry/xyz.h
+/home/cyx/workspace/DEPACT_release/geometry/geometry/xyz.h
 cmath
 -
 
-../geometry/line.h
+/home/cyx/workspace/DEPACT_release/geometry/line.h
 geometry/calculators.h
-../geometry/geometry/calculators.h
+/home/cyx/workspace/DEPACT_release/geometry/geometry/calculators.h
 cmath
 -
 
-../geometry/localframe.h
+/home/cyx/workspace/DEPACT_release/geometry/localframe.h
 geometry/calculators.h
-../geometry/geometry/calculators.h
+/home/cyx/workspace/DEPACT_release/geometry/geometry/calculators.h
 geometry/line.h
-../geometry/geometry/line.h
+/home/cyx/workspace/DEPACT_release/geometry/geometry/line.h
 geometry/quaternioncrd.h
-../geometry/geometry/quaternioncrd.h
+/home/cyx/workspace/DEPACT_release/geometry/geometry/quaternioncrd.h
 vector
 -
 
-../geometry/quaternioncrd.h
+/home/cyx/workspace/DEPACT_release/geometry/quaternioncrd.h
 calculators.h
-../geometry/calculators.h
+/home/cyx/workspace/DEPACT_release/geometry/calculators.h
 iostream
 -
 vector
@@ -70,9 +70,9 @@ vector
 cmath
 -
 
-../geometry/xyz.h
+/home/cyx/workspace/DEPACT_release/geometry/xyz.h
 stdio.h
-../geometry/stdio.h
+/home/cyx/workspace/DEPACT_release/geometry/stdio.h
 iostream
 -
 string
@@ -86,15 +86,15 @@ boost/archive/text_oarchive.hpp
 boost/archive/text_iarchive.hpp
 -
 
-../macros.h
+/home/cyx/workspace/DEPACT_release/macros.h
 
-../proteinrep/aaconformer.h
+/home/cyx/workspace/DEPACT_release/proteinrep/aaconformer.h
 geometry/xyz.h
-../proteinrep/geometry/xyz.h
+/home/cyx/workspace/DEPACT_release/proteinrep/geometry/xyz.h
 geometry/localframe.h
-../proteinrep/geometry/localframe.h
+/home/cyx/workspace/DEPACT_release/proteinrep/geometry/localframe.h
 proteinrep/pdbreader.h
-../proteinrep/proteinrep/pdbreader.h
+/home/cyx/workspace/DEPACT_release/proteinrep/proteinrep/pdbreader.h
 boost/archive/text_oarchive.hpp
 -
 boost/archive/text_iarchive.hpp
@@ -108,7 +108,7 @@ boost/serialization/set.hpp
 memory
 -
 
-../proteinrep/aminoacidseq.h
+/home/cyx/workspace/DEPACT_release/proteinrep/aminoacidseq.h
 string
 -
 map
@@ -116,7 +116,7 @@ map
 vector
 -
 
-../proteinrep/intatomkey.h
+/home/cyx/workspace/DEPACT_release/proteinrep/intatomkey.h
 string
 -
 map
@@ -128,11 +128,11 @@ climits
 cassert
 -
 
-../proteinrep/pdbreader.h
+/home/cyx/workspace/DEPACT_release/proteinrep/pdbreader.h
 dstl/mapkeyint.h
-../proteinrep/dstl/mapkeyint.h
+/home/cyx/workspace/DEPACT_release/proteinrep/dstl/mapkeyint.h
 proteinrep/pdbrecord.h
-../proteinrep/proteinrep/pdbrecord.h
+/home/cyx/workspace/DEPACT_release/proteinrep/proteinrep/pdbrecord.h
 cassert
 -
 map
@@ -140,39 +140,39 @@ map
 memory
 -
 
-../proteinrep/pdbrecord.h
+/home/cyx/workspace/DEPACT_release/proteinrep/pdbrecord.h
 string
 -
 vector
 -
 
-/home/cyx/workspace/DEPACT_release/proteinrep/src/aaconformer.cpp
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/proteinrep/src/aaconformer.cpp
 proteinrep/aaconformer.h
-/home/cyx/workspace/DEPACT_release/proteinrep/src/proteinrep/aaconformer.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/proteinrep/src/proteinrep/aaconformer.h
 set
 -
 cassert
 -
 
-/home/cyx/workspace/DEPACT_release/proteinrep/src/aminoacidseq.cpp
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/proteinrep/src/aminoacidseq.cpp
 proteinrep/aminoacidseq.h
-/home/cyx/workspace/DEPACT_release/proteinrep/src/proteinrep/aminoacidseq.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/proteinrep/src/proteinrep/aminoacidseq.h
 cassert
 -
 
-/home/cyx/workspace/DEPACT_release/proteinrep/src/intatomkey.cpp
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/proteinrep/src/intatomkey.cpp
 proteinrep/intatomkey.h
-/home/cyx/workspace/DEPACT_release/proteinrep/src/proteinrep/intatomkey.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/proteinrep/src/proteinrep/intatomkey.h
 cassert
 -
 
-/home/cyx/workspace/DEPACT_release/proteinrep/src/pdbreader.cpp
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/proteinrep/src/pdbreader.cpp
 proteinrep/pdbreader.h
-/home/cyx/workspace/DEPACT_release/proteinrep/src/proteinrep/pdbreader.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/proteinrep/src/proteinrep/pdbreader.h
 dataio/inputlines.h
-/home/cyx/workspace/DEPACT_release/proteinrep/src/dataio/inputlines.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/proteinrep/src/dataio/inputlines.h
 dataio/datapaths.h
-/home/cyx/workspace/DEPACT_release/proteinrep/src/dataio/datapaths.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/proteinrep/src/dataio/datapaths.h
 iostream
 -
 fstream
@@ -184,11 +184,11 @@ boost/filesystem.hpp
 boost/algorithm/string.hpp
 -
 
-/home/cyx/workspace/DEPACT_release/proteinrep/src/pdbrecord.cpp
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/proteinrep/src/pdbrecord.cpp
 proteinrep/pdbrecord.h
-/home/cyx/workspace/DEPACT_release/proteinrep/src/proteinrep/pdbrecord.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/proteinrep/src/proteinrep/pdbrecord.h
 dataio/inputlines.h
-/home/cyx/workspace/DEPACT_release/proteinrep/src/dataio/inputlines.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/proteinrep/src/dataio/inputlines.h
 boost/algorithm/string.hpp
 -
 

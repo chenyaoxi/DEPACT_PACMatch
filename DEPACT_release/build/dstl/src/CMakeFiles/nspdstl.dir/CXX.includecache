@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-../dstl/domaintree.h
+/home/cyx/workspace/DEPACT_release/dstl/domaintree.h
 dstl/nnearest.h
-../dstl/dstl/nnearest.h
+/home/cyx/workspace/DEPACT_release/dstl/dstl/nnearest.h
 vector
 -
 map
@@ -24,11 +24,11 @@ algorithm
 memory
 -
 
-../dstl/graph.h
+/home/cyx/workspace/DEPACT_release/dstl/graph.h
 vector
 -
 
-../dstl/nestedcontainers.h
+/home/cyx/workspace/DEPACT_release/dstl/nestedcontainers.h
 vector
 -
 iostream
@@ -36,7 +36,7 @@ iostream
 functional
 -
 
-../dstl/nnearest.h
+/home/cyx/workspace/DEPACT_release/dstl/nnearest.h
 vector
 -
 algorithm
@@ -44,7 +44,7 @@ algorithm
 queue
 -
 
-../dstl/nnregressionmodel.h
+/home/cyx/workspace/DEPACT_release/dstl/nnregressionmodel.h
 vector
 -
 cassert
@@ -58,7 +58,7 @@ fstream
 string
 -
 
-../dstl/pca.h
+/home/cyx/workspace/DEPACT_release/dstl/pca.h
 vector
 -
 algorithm
@@ -66,27 +66,27 @@ algorithm
 cassert
 -
 
-/home/cyx/workspace/DEPACT_release/dstl/src/domain.cpp
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dstl/src/domain.cpp
 dstl/domaintree.h
-/home/cyx/workspace/DEPACT_release/dstl/src/dstl/domaintree.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dstl/src/dstl/domaintree.h
 
-/home/cyx/workspace/DEPACT_release/dstl/src/graph.cpp
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dstl/src/graph.cpp
 dstl/graph.h
-/home/cyx/workspace/DEPACT_release/dstl/src/dstl/graph.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dstl/src/dstl/graph.h
 
-/home/cyx/workspace/DEPACT_release/dstl/src/nestedcontainers.cpp
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dstl/src/nestedcontainers.cpp
 cmath
 -
 dstl/nestedcontainers.h
-/home/cyx/workspace/DEPACT_release/dstl/src/dstl/nestedcontainers.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dstl/src/dstl/nestedcontainers.h
 
-/home/cyx/workspace/DEPACT_release/dstl/src/nnregressionmodel.cpp
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dstl/src/nnregressionmodel.cpp
 dstl/nnregressionmodel.h
-/home/cyx/workspace/DEPACT_release/dstl/src/dstl/nnregressionmodel.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dstl/src/dstl/nnregressionmodel.h
 
-/home/cyx/workspace/DEPACT_release/dstl/src/pca.cpp
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dstl/src/pca.cpp
 dstl/pca.h
-/home/cyx/workspace/DEPACT_release/dstl/src/dstl/pca.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dstl/src/dstl/pca.h
 cmath
 -
 gsl/gsl_matrix.h

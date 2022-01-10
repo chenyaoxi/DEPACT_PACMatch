@@ -1,4 +1,4 @@
-# Install script for directory: /home/cyx/workspace/DEPACT_release/noob
+# Install script for directory: /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/noob
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/cyx/workspace/DEPACT_release/build/noob/src/cmake_install.cmake")
+  include("/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/noob/src/cmake_install.cmake")
 
 endif()
 

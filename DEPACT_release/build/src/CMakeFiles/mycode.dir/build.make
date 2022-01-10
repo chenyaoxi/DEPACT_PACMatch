@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/cyx/workspace/DEPACT_release
+CMAKE_SOURCE_DIR = /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/cyx/workspace/DEPACT_release/build
+CMAKE_BINARY_DIR = /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build
 
 # Include any dependencies generated for this target.
 include src/CMakeFiles/mycode.dir/depend.make
@@ -59,107 +59,107 @@ include src/CMakeFiles/mycode.dir/flags.make
 
 src/CMakeFiles/mycode.dir/samplerefdist.o: src/CMakeFiles/mycode.dir/flags.make
 src/CMakeFiles/mycode.dir/samplerefdist.o: ../src/samplerefdist.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cyx/workspace/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/mycode.dir/samplerefdist.o"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mycode.dir/samplerefdist.o -c /home/cyx/workspace/DEPACT_release/src/samplerefdist.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/mycode.dir/samplerefdist.o"
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mycode.dir/samplerefdist.o -c /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/samplerefdist.cpp
 
 src/CMakeFiles/mycode.dir/samplerefdist.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mycode.dir/samplerefdist.i"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cyx/workspace/DEPACT_release/src/samplerefdist.cpp > CMakeFiles/mycode.dir/samplerefdist.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/samplerefdist.cpp > CMakeFiles/mycode.dir/samplerefdist.i
 
 src/CMakeFiles/mycode.dir/samplerefdist.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mycode.dir/samplerefdist.s"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cyx/workspace/DEPACT_release/src/samplerefdist.cpp -o CMakeFiles/mycode.dir/samplerefdist.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/samplerefdist.cpp -o CMakeFiles/mycode.dir/samplerefdist.s
 
 src/CMakeFiles/mycode.dir/atomtypessmarts.o: src/CMakeFiles/mycode.dir/flags.make
 src/CMakeFiles/mycode.dir/atomtypessmarts.o: ../src/atomtypessmarts.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cyx/workspace/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/mycode.dir/atomtypessmarts.o"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mycode.dir/atomtypessmarts.o -c /home/cyx/workspace/DEPACT_release/src/atomtypessmarts.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/mycode.dir/atomtypessmarts.o"
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mycode.dir/atomtypessmarts.o -c /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/atomtypessmarts.cpp
 
 src/CMakeFiles/mycode.dir/atomtypessmarts.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mycode.dir/atomtypessmarts.i"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cyx/workspace/DEPACT_release/src/atomtypessmarts.cpp > CMakeFiles/mycode.dir/atomtypessmarts.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/atomtypessmarts.cpp > CMakeFiles/mycode.dir/atomtypessmarts.i
 
 src/CMakeFiles/mycode.dir/atomtypessmarts.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mycode.dir/atomtypessmarts.s"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cyx/workspace/DEPACT_release/src/atomtypessmarts.cpp -o CMakeFiles/mycode.dir/atomtypessmarts.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/atomtypessmarts.cpp -o CMakeFiles/mycode.dir/atomtypessmarts.s
 
 src/CMakeFiles/mycode.dir/fmmatches.o: src/CMakeFiles/mycode.dir/flags.make
 src/CMakeFiles/mycode.dir/fmmatches.o: ../src/fmmatches.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cyx/workspace/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/mycode.dir/fmmatches.o"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mycode.dir/fmmatches.o -c /home/cyx/workspace/DEPACT_release/src/fmmatches.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/mycode.dir/fmmatches.o"
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mycode.dir/fmmatches.o -c /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/fmmatches.cpp
 
 src/CMakeFiles/mycode.dir/fmmatches.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mycode.dir/fmmatches.i"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cyx/workspace/DEPACT_release/src/fmmatches.cpp > CMakeFiles/mycode.dir/fmmatches.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/fmmatches.cpp > CMakeFiles/mycode.dir/fmmatches.i
 
 src/CMakeFiles/mycode.dir/fmmatches.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mycode.dir/fmmatches.s"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cyx/workspace/DEPACT_release/src/fmmatches.cpp -o CMakeFiles/mycode.dir/fmmatches.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/fmmatches.cpp -o CMakeFiles/mycode.dir/fmmatches.s
 
 src/CMakeFiles/mycode.dir/mmmatches.o: src/CMakeFiles/mycode.dir/flags.make
 src/CMakeFiles/mycode.dir/mmmatches.o: ../src/mmmatches.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cyx/workspace/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/mycode.dir/mmmatches.o"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mycode.dir/mmmatches.o -c /home/cyx/workspace/DEPACT_release/src/mmmatches.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/mycode.dir/mmmatches.o"
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mycode.dir/mmmatches.o -c /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/mmmatches.cpp
 
 src/CMakeFiles/mycode.dir/mmmatches.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mycode.dir/mmmatches.i"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cyx/workspace/DEPACT_release/src/mmmatches.cpp > CMakeFiles/mycode.dir/mmmatches.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/mmmatches.cpp > CMakeFiles/mycode.dir/mmmatches.i
 
 src/CMakeFiles/mycode.dir/mmmatches.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mycode.dir/mmmatches.s"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cyx/workspace/DEPACT_release/src/mmmatches.cpp -o CMakeFiles/mycode.dir/mmmatches.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/mmmatches.cpp -o CMakeFiles/mycode.dir/mmmatches.s
 
 src/CMakeFiles/mycode.dir/extendssas.o: src/CMakeFiles/mycode.dir/flags.make
 src/CMakeFiles/mycode.dir/extendssas.o: ../src/extendssas.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cyx/workspace/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/mycode.dir/extendssas.o"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mycode.dir/extendssas.o -c /home/cyx/workspace/DEPACT_release/src/extendssas.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/mycode.dir/extendssas.o"
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mycode.dir/extendssas.o -c /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/extendssas.cpp
 
 src/CMakeFiles/mycode.dir/extendssas.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mycode.dir/extendssas.i"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cyx/workspace/DEPACT_release/src/extendssas.cpp > CMakeFiles/mycode.dir/extendssas.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/extendssas.cpp > CMakeFiles/mycode.dir/extendssas.i
 
 src/CMakeFiles/mycode.dir/extendssas.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mycode.dir/extendssas.s"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cyx/workspace/DEPACT_release/src/extendssas.cpp -o CMakeFiles/mycode.dir/extendssas.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/extendssas.cpp -o CMakeFiles/mycode.dir/extendssas.s
 
 src/CMakeFiles/mycode.dir/bfdecoupling.o: src/CMakeFiles/mycode.dir/flags.make
 src/CMakeFiles/mycode.dir/bfdecoupling.o: ../src/bfdecoupling.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cyx/workspace/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/CMakeFiles/mycode.dir/bfdecoupling.o"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mycode.dir/bfdecoupling.o -c /home/cyx/workspace/DEPACT_release/src/bfdecoupling.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/CMakeFiles/mycode.dir/bfdecoupling.o"
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mycode.dir/bfdecoupling.o -c /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/bfdecoupling.cpp
 
 src/CMakeFiles/mycode.dir/bfdecoupling.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mycode.dir/bfdecoupling.i"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cyx/workspace/DEPACT_release/src/bfdecoupling.cpp > CMakeFiles/mycode.dir/bfdecoupling.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/bfdecoupling.cpp > CMakeFiles/mycode.dir/bfdecoupling.i
 
 src/CMakeFiles/mycode.dir/bfdecoupling.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mycode.dir/bfdecoupling.s"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cyx/workspace/DEPACT_release/src/bfdecoupling.cpp -o CMakeFiles/mycode.dir/bfdecoupling.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/bfdecoupling.cpp -o CMakeFiles/mycode.dir/bfdecoupling.s
 
 src/CMakeFiles/mycode.dir/buildpocket.o: src/CMakeFiles/mycode.dir/flags.make
 src/CMakeFiles/mycode.dir/buildpocket.o: ../src/buildpocket.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cyx/workspace/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/CMakeFiles/mycode.dir/buildpocket.o"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mycode.dir/buildpocket.o -c /home/cyx/workspace/DEPACT_release/src/buildpocket.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/CMakeFiles/mycode.dir/buildpocket.o"
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mycode.dir/buildpocket.o -c /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/buildpocket.cpp
 
 src/CMakeFiles/mycode.dir/buildpocket.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mycode.dir/buildpocket.i"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cyx/workspace/DEPACT_release/src/buildpocket.cpp > CMakeFiles/mycode.dir/buildpocket.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/buildpocket.cpp > CMakeFiles/mycode.dir/buildpocket.i
 
 src/CMakeFiles/mycode.dir/buildpocket.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mycode.dir/buildpocket.s"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cyx/workspace/DEPACT_release/src/buildpocket.cpp -o CMakeFiles/mycode.dir/buildpocket.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/buildpocket.cpp -o CMakeFiles/mycode.dir/buildpocket.s
 
 src/CMakeFiles/mycode.dir/statis_metal.o: src/CMakeFiles/mycode.dir/flags.make
 src/CMakeFiles/mycode.dir/statis_metal.o: ../src/statis_metal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cyx/workspace/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/CMakeFiles/mycode.dir/statis_metal.o"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mycode.dir/statis_metal.o -c /home/cyx/workspace/DEPACT_release/src/statis_metal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/CMakeFiles/mycode.dir/statis_metal.o"
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mycode.dir/statis_metal.o -c /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/statis_metal.cpp
 
 src/CMakeFiles/mycode.dir/statis_metal.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mycode.dir/statis_metal.i"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cyx/workspace/DEPACT_release/src/statis_metal.cpp > CMakeFiles/mycode.dir/statis_metal.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/statis_metal.cpp > CMakeFiles/mycode.dir/statis_metal.i
 
 src/CMakeFiles/mycode.dir/statis_metal.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mycode.dir/statis_metal.s"
-	cd /home/cyx/workspace/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cyx/workspace/DEPACT_release/src/statis_metal.cpp -o CMakeFiles/mycode.dir/statis_metal.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src/statis_metal.cpp -o CMakeFiles/mycode.dir/statis_metal.s
 
 # Object files for target mycode
 mycode_OBJECTS = \
@@ -185,9 +185,9 @@ lib/libmycode.a: src/CMakeFiles/mycode.dir/buildpocket.o
 lib/libmycode.a: src/CMakeFiles/mycode.dir/statis_metal.o
 lib/libmycode.a: src/CMakeFiles/mycode.dir/build.make
 lib/libmycode.a: src/CMakeFiles/mycode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/cyx/workspace/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX static library ../lib/libmycode.a"
-	cd /home/cyx/workspace/DEPACT_release/build/src && $(CMAKE_COMMAND) -P CMakeFiles/mycode.dir/cmake_clean_target.cmake
-	cd /home/cyx/workspace/DEPACT_release/build/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mycode.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX static library ../lib/libmycode.a"
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && $(CMAKE_COMMAND) -P CMakeFiles/mycode.dir/cmake_clean_target.cmake
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mycode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/CMakeFiles/mycode.dir/build: lib/libmycode.a
@@ -195,10 +195,10 @@ src/CMakeFiles/mycode.dir/build: lib/libmycode.a
 .PHONY : src/CMakeFiles/mycode.dir/build
 
 src/CMakeFiles/mycode.dir/clean:
-	cd /home/cyx/workspace/DEPACT_release/build/src && $(CMAKE_COMMAND) -P CMakeFiles/mycode.dir/cmake_clean.cmake
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src && $(CMAKE_COMMAND) -P CMakeFiles/mycode.dir/cmake_clean.cmake
 .PHONY : src/CMakeFiles/mycode.dir/clean
 
 src/CMakeFiles/mycode.dir/depend:
-	cd /home/cyx/workspace/DEPACT_release/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cyx/workspace/DEPACT_release /home/cyx/workspace/DEPACT_release/src /home/cyx/workspace/DEPACT_release/build /home/cyx/workspace/DEPACT_release/build/src /home/cyx/workspace/DEPACT_release/build/src/CMakeFiles/mycode.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/src /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src/CMakeFiles/mycode.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : src/CMakeFiles/mycode.dir/depend
 

@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-../dataio/controlfile.h
+/home/cyx/workspace/DEPACT_release/dataio/controlfile.h
 dstl/globalinstances.h
-../dataio/dstl/globalinstances.h
+/home/cyx/workspace/DEPACT_release/dataio/dstl/globalinstances.h
 vector
 -
 map
@@ -24,11 +24,11 @@ iostream
 fstream
 -
 
-../dataio/datapaths.h
+/home/cyx/workspace/DEPACT_release/dataio/datapaths.h
 string
 -
 
-../dataio/inputlines.h
+/home/cyx/workspace/DEPACT_release/dataio/inputlines.h
 string
 -
 vector
@@ -38,17 +38,17 @@ memory
 boost/lexical_cast.hpp
 -
 macros.h
-../dataio/macros.h
+/home/cyx/workspace/DEPACT_release/dataio/macros.h
 dstl/nestedcontainers.h
-../dataio/dstl/nestedcontainers.h
+/home/cyx/workspace/DEPACT_release/dataio/dstl/nestedcontainers.h
 
-../dataio/pdbfolder.h
+/home/cyx/workspace/DEPACT_release/dataio/pdbfolder.h
 dataio/datapaths.h
-../dataio/dataio/datapaths.h
+/home/cyx/workspace/DEPACT_release/dataio/dataio/datapaths.h
 string
 -
 
-../dataio/splitstring.h
+/home/cyx/workspace/DEPACT_release/dataio/splitstring.h
 string
 -
 vector
@@ -56,13 +56,13 @@ vector
 ctype.h
 -
 
-../dstl/globalinstances.h
+/home/cyx/workspace/DEPACT_release/dstl/globalinstances.h
 map
 -
 string
 -
 
-../dstl/nestedcontainers.h
+/home/cyx/workspace/DEPACT_release/dstl/nestedcontainers.h
 vector
 -
 iostream
@@ -70,19 +70,19 @@ iostream
 functional
 -
 
-../macros.h
+/home/cyx/workspace/DEPACT_release/macros.h
 
-/home/cyx/workspace/DEPACT_release/dataio/src/controlfile.cpp
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dataio/src/controlfile.cpp
 dataio/inputlines.h
-/home/cyx/workspace/DEPACT_release/dataio/src/dataio/inputlines.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dataio/src/dataio/inputlines.h
 dataio/controlfile.h
-/home/cyx/workspace/DEPACT_release/dataio/src/dataio/controlfile.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dataio/src/dataio/controlfile.h
 sstream
 -
 
-/home/cyx/workspace/DEPACT_release/dataio/src/datapaths.cpp
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dataio/src/datapaths.cpp
 dataio/datapaths.h
-/home/cyx/workspace/DEPACT_release/dataio/src/dataio/datapaths.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dataio/src/dataio/datapaths.h
 boost/filesystem.hpp
 -
 iostream
@@ -92,9 +92,9 @@ fstream
 cstdlib
 -
 
-/home/cyx/workspace/DEPACT_release/dataio/src/inputlines.cpp
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dataio/src/inputlines.cpp
 dataio/inputlines.h
-/home/cyx/workspace/DEPACT_release/dataio/src/dataio/inputlines.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dataio/src/dataio/inputlines.h
 iostream
 -
 fstream
@@ -108,7 +108,7 @@ boost/algorithm/string.hpp
 algorithm
 -
 
-/home/cyx/workspace/DEPACT_release/dataio/src/pdbfolder.cpp
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dataio/src/pdbfolder.cpp
 stdlib.h
 -
 boost/algorithm/string.hpp
@@ -118,9 +118,9 @@ boost/filesystem.hpp
 iostream
 -
 dataio/pdbfolder.h
-/home/cyx/workspace/DEPACT_release/dataio/src/dataio/pdbfolder.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dataio/src/dataio/pdbfolder.h
 
-/home/cyx/workspace/DEPACT_release/dataio/src/splitstring.cpp
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dataio/src/splitstring.cpp
 dataio/splitstring.h
-/home/cyx/workspace/DEPACT_release/dataio/src/dataio/splitstring.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/dataio/src/dataio/splitstring.h
 

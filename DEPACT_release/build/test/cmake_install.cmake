@@ -1,4 +1,4 @@
-# Install script for directory: /home/cyx/workspace/DEPACT_release/test
+# Install script for directory: /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

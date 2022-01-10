@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/cyx/workspace/DEPACT_release
+CMAKE_SOURCE_DIR = /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/cyx/workspace/DEPACT_release/build
+CMAKE_BINARY_DIR = /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,14 +80,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/cyx/workspace/DEPACT_release/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/cyx/workspace/DEPACT_release/build/CMakeFiles /home/cyx/workspace/DEPACT_release/build/src/CMakeFiles/progress.marks
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 src/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/cyx/workspace/DEPACT_release/build/CMakeFiles 0
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/CMakeFiles /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src/CMakeFiles/progress.marks
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 src/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 src/clean
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 src/clean
 .PHONY : clean
 
 # The main clean target
@@ -97,22 +97,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 src/preinstall
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 src/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 src/preinstall
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 src/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/cyx/workspace/DEPACT_release/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 src/CMakeFiles/mycode.dir/rule:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/mycode.dir/rule
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/mycode.dir/rule
 .PHONY : src/CMakeFiles/mycode.dir/rule
 
 # Convenience name for target.
@@ -122,127 +122,127 @@ mycode: src/CMakeFiles/mycode.dir/rule
 
 # fast build rule for target.
 mycode/fast:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/build
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/build
 .PHONY : mycode/fast
 
 # target to build an object file
 atomtypessmarts.o:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/atomtypessmarts.o
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/atomtypessmarts.o
 .PHONY : atomtypessmarts.o
 
 # target to preprocess a source file
 atomtypessmarts.i:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/atomtypessmarts.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/atomtypessmarts.i
 .PHONY : atomtypessmarts.i
 
 # target to generate assembly for a file
 atomtypessmarts.s:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/atomtypessmarts.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/atomtypessmarts.s
 .PHONY : atomtypessmarts.s
 
 # target to build an object file
 bfdecoupling.o:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/bfdecoupling.o
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/bfdecoupling.o
 .PHONY : bfdecoupling.o
 
 # target to preprocess a source file
 bfdecoupling.i:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/bfdecoupling.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/bfdecoupling.i
 .PHONY : bfdecoupling.i
 
 # target to generate assembly for a file
 bfdecoupling.s:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/bfdecoupling.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/bfdecoupling.s
 .PHONY : bfdecoupling.s
 
 # target to build an object file
 buildpocket.o:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/buildpocket.o
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/buildpocket.o
 .PHONY : buildpocket.o
 
 # target to preprocess a source file
 buildpocket.i:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/buildpocket.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/buildpocket.i
 .PHONY : buildpocket.i
 
 # target to generate assembly for a file
 buildpocket.s:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/buildpocket.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/buildpocket.s
 .PHONY : buildpocket.s
 
 # target to build an object file
 extendssas.o:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/extendssas.o
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/extendssas.o
 .PHONY : extendssas.o
 
 # target to preprocess a source file
 extendssas.i:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/extendssas.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/extendssas.i
 .PHONY : extendssas.i
 
 # target to generate assembly for a file
 extendssas.s:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/extendssas.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/extendssas.s
 .PHONY : extendssas.s
 
 # target to build an object file
 fmmatches.o:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/fmmatches.o
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/fmmatches.o
 .PHONY : fmmatches.o
 
 # target to preprocess a source file
 fmmatches.i:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/fmmatches.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/fmmatches.i
 .PHONY : fmmatches.i
 
 # target to generate assembly for a file
 fmmatches.s:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/fmmatches.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/fmmatches.s
 .PHONY : fmmatches.s
 
 # target to build an object file
 mmmatches.o:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/mmmatches.o
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/mmmatches.o
 .PHONY : mmmatches.o
 
 # target to preprocess a source file
 mmmatches.i:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/mmmatches.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/mmmatches.i
 .PHONY : mmmatches.i
 
 # target to generate assembly for a file
 mmmatches.s:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/mmmatches.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/mmmatches.s
 .PHONY : mmmatches.s
 
 # target to build an object file
 samplerefdist.o:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/samplerefdist.o
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/samplerefdist.o
 .PHONY : samplerefdist.o
 
 # target to preprocess a source file
 samplerefdist.i:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/samplerefdist.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/samplerefdist.i
 .PHONY : samplerefdist.i
 
 # target to generate assembly for a file
 samplerefdist.s:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/samplerefdist.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/samplerefdist.s
 .PHONY : samplerefdist.s
 
 # target to build an object file
 statis_metal.o:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/statis_metal.o
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/statis_metal.o
 .PHONY : statis_metal.o
 
 # target to preprocess a source file
 statis_metal.i:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/statis_metal.i
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/statis_metal.i
 .PHONY : statis_metal.i
 
 # target to generate assembly for a file
 statis_metal.s:
-	cd /home/cyx/workspace/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/statis_metal.s
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(MAKE) -f src/CMakeFiles/mycode.dir/build.make src/CMakeFiles/mycode.dir/statis_metal.s
 .PHONY : statis_metal.s
 
 # Help Target
@@ -289,6 +289,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/cyx/workspace/DEPACT_release/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/cyx/workspace/DEPACT_release
+# Install script for directory: /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,13 +39,13 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/cyx/workspace/DEPACT_release/build/src/cmake_install.cmake")
-  include("/home/cyx/workspace/DEPACT_release/build/noob/cmake_install.cmake")
-  include("/home/cyx/workspace/DEPACT_release/build/test/cmake_install.cmake")
-  include("/home/cyx/workspace/DEPACT_release/build/dataio/src/cmake_install.cmake")
-  include("/home/cyx/workspace/DEPACT_release/build/dstl/src/cmake_install.cmake")
-  include("/home/cyx/workspace/DEPACT_release/build/geometry/src/cmake_install.cmake")
-  include("/home/cyx/workspace/DEPACT_release/build/proteinrep/src/cmake_install.cmake")
+  include("/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/src/cmake_install.cmake")
+  include("/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/noob/cmake_install.cmake")
+  include("/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/test/cmake_install.cmake")
+  include("/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/dataio/src/cmake_install.cmake")
+  include("/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/dstl/src/cmake_install.cmake")
+  include("/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/geometry/src/cmake_install.cmake")
+  include("/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/proteinrep/src/cmake_install.cmake")
 
 endif()
 
@@ -57,5 +57,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/cyx/workspace/DEPACT_release/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

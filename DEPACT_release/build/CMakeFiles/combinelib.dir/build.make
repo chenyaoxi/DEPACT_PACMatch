@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/cyx/workspace/DEPACT_release
+CMAKE_SOURCE_DIR = /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/cyx/workspace/DEPACT_release/build
+CMAKE_BINARY_DIR = /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build
 
 # Utility rule file for combinelib.
 
@@ -58,9 +58,9 @@ CMakeFiles/combinelib: lib/libnoob.a
 CMakeFiles/combinelib: lib/libnspdataio.a
 CMakeFiles/combinelib: lib/libnspproteinrep.a
 CMakeFiles/combinelib: ../cliquer
-	cd /home/cyx/workspace/DEPACT_release/build/lib && rm -f libcombine.a
-	cd /home/cyx/workspace/DEPACT_release/build/lib && ar rcT libcombine.a libmycode.a libnoob.a libnspdataio.a libnspgeometry.a libnspproteinrep.a
-	cd /home/cyx/workspace/DEPACT_release/build/lib && ranlib libcombine.a
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/lib && rm -f libcombine.a
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/lib && ar rcT libcombine.a libmycode.a libnoob.a libnspdataio.a libnspgeometry.a libnspproteinrep.a
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/lib && ranlib libcombine.a
 
 combinelib: CMakeFiles/combinelib
 combinelib: CMakeFiles/combinelib.dir/build.make
@@ -77,6 +77,6 @@ CMakeFiles/combinelib.dir/clean:
 .PHONY : CMakeFiles/combinelib.dir/clean
 
 CMakeFiles/combinelib.dir/depend:
-	cd /home/cyx/workspace/DEPACT_release/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cyx/workspace/DEPACT_release /home/cyx/workspace/DEPACT_release /home/cyx/workspace/DEPACT_release/build /home/cyx/workspace/DEPACT_release/build /home/cyx/workspace/DEPACT_release/build/CMakeFiles/combinelib.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build /home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/build/CMakeFiles/combinelib.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/combinelib.dir/depend
 

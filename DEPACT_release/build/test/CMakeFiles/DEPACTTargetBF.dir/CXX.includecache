@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-../bfdecoupling.h
+/home/cyx/workspace/DEPACT_release/bfdecoupling.h
 basicfragment.h
-../basicfragment.h
+/home/cyx/workspace/DEPACT_release/basicfragment.h
 twowaymatches.h
-../twowaymatches.h
+/home/cyx/workspace/DEPACT_release/twowaymatches.h
 openbabel/obconversion.h
 -
 openbabel/mol.h
@@ -18,11 +18,11 @@ openbabel/mol.h
 memory
 -
 
-../dataio/datapaths.h
+/home/cyx/workspace/DEPACT_release/dataio/datapaths.h
 string
 -
 
-../noob/basicfragment.h
+/home/cyx/workspace/DEPACT_release/noob/basicfragment.h
 string
 -
 vector
@@ -34,7 +34,7 @@ bitset
 dataio/datapaths.h
 -
 
-../twowaymatches.h
+/home/cyx/workspace/DEPACT_release/twowaymatches.h
 vector
 -
 map
@@ -42,13 +42,13 @@ map
 cassert
 -
 
-/home/cyx/workspace/DEPACT_release/test/targetbf.cpp
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/test/targetbf.cpp
 basicfragment.h
-/home/cyx/workspace/DEPACT_release/test/basicfragment.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/test/basicfragment.h
 iostream
 -
 bfdecoupling.h
-/home/cyx/workspace/DEPACT_release/test/bfdecoupling.h
+/home/cyx/workspace/hal/DEPACT_PACMatch/DEPACT_release/test/bfdecoupling.h
 openbabel/obconversion.h
 -
 openbabel/mol.h
