@@ -33,7 +33,7 @@ Then, still in the directory /bf_table/, run the following code to prepare bf_*.
 
 /*/DEPACT_release/build/test/DEPACTBFEstablishment all-sdf.sdf
 
-Waiting for several minutes, you will get results like those bf_*.txt files in demo.
+It's normal to have plenty of warnning from OpenBabel. If the program is still running, you should not stop it for these warnnings. Waiting for several minutes, you will get results like those bf_*.txt files in demo.
 
 
 DEPACTTargetBF
